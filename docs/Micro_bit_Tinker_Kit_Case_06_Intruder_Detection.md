@@ -1,4 +1,3 @@
-ABC
 
 ## Intruder Detection  
 
