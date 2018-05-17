@@ -1,6 +1,6 @@
 micro_bit_Tinker_Kit_Case_08_Motion_Detector.md
 
-## Make A Burglar Alarm Device with micro:bit     
+## Motion Detector     
 
 
 Don’t like people sneaking up on you? Here’s just the right micro:bit project for you! In this course, we learn how to make use of the motion sensor, the moisture sensor as well as how they can be coded for.     
@@ -88,5 +88,5 @@ Or you can download from the page below.
 
 
 Now save these code into your micro:bit and have a try!  
-Succeed! You now have your very own Micro:bit motion detector!    
+Succeed! You now have your very own micro:bit motion detector!    
 
