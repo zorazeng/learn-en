@@ -9,11 +9,12 @@ Robit is a motherboard of smart car based on micro:bit. It is compatible with MB
 ## Features  
 ---
 
-- Compatible with MBOT chassis and sensors, and extend more functions based on MBOT. 
+- Compatible with MBOT chassis and sensors. 
 - Support 4 channels of DC motor and 2 channels of stepping motors.
 - With 8 PWM signal output connectors.
 - With 8 G-5V-S digital signal connectors(for OCTOPUS electric brick). 
 - With 4 G-5V-S analog signal connectors(for OCTOPUS electric brick).
+- Integrate frequently used modules like buzzer, light sensor, rainbow LED, infrared send and receive.
 
 
 ## Parameter  
