@@ -99,6 +99,8 @@ pages:
     - Motor:bit: Motor_bit.md
     - Power:bit: Power_bit.md
     - Ring:bit: Ring_bit.md
+    - Basic:bit: Basic_bit.md
+    - Robit: Robit.md
     - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
 
   - Micro:bit Kits:
