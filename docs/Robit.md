@@ -155,7 +155,7 @@ Once completed, it looks like the following picture showed.
 
 ### Programming  
 
-Click to open [makecode](https://makecode.microbit.org/), search the key word "robit" and add robit package.
+Click to open [makecode](https://makecode.microbit.org/), search the key word `robit` and add robit package.
 
 ![](https://i.imgur.com/C0LxMkP.png)
 
