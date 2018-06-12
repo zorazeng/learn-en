@@ -1,8 +1,4 @@
-micro_bit_Tinker_Kit_Case_08_Motion_Detector.md
-
-## Motion Detector     
-
-
+ 
 Don’t like people sneaking up on you? Here’s just the right micro:bit project for you! In this course, we learn how to make use of the motion sensor, the moisture sensor as well as how they can be coded for.     
 
 ## Goals:    
