@@ -1,6 +1,7 @@
-micro_bit_Tinker_Kit_Case_16_QUICK_MATHS.md
+![](https://i.imgur.com/qypElZv.jpg)
 
 QUICK MATHS is a game where its all about testing your mental calculation. Too slow, you lose; too fast, you may make mistakes.
+
 
 ## Step 0: Pre-build Overview
 ---
