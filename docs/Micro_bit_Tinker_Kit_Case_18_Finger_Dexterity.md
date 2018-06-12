@@ -1,6 +1,7 @@
-micro_bit_Tinker_Kit_Case_18_Finger_Dexterity.md
+![](https://i.imgur.com/6MlU9At.jpg)
 
 Are your psychomotor skills as bad as mine?  
+
 
 ## Goals    
 ---
@@ -52,6 +53,7 @@ In order to increase the difficulty, it was my judgement that a  time variable c
 
 I have created a bunch of if-else statements inside a loop. These statements periodically check if a button on the keyboard was pressed and if the button corresponds to the x-coordinate of the LED that lights up. We have to do this because the pressing of the keypad does not emit an event that our event listeners in micro:bit’s core modules can respond to (like how it does for shaking or button presses). Thus, we had to create our own event listener. This event listener only runs as long as bool (which we created earlier) is true.  
 
+
 ### Step 3  
 
 ![](https://i.imgur.com/0WIqH6P.png)  
@@ -60,6 +62,7 @@ Inside the if-else statement, we check to see which key was pressed and if it co
   
 Note that I unplotted the point first LED. This is to ensure that we don’t have more than one LED in each round so as to not confuse the player. If you wanted to make the game more difficult, you could show multiple LEDs and play for only the most recent LED that lights up. Treat that as an extension!  
 Interestingly, I have set bool to false. Why?  
+
 
 ### Step 4  
 
@@ -81,6 +84,7 @@ In anticipation of the function being called in some point in the future, we dec
   
 We run our own homemade event listener (the name betrays its function – it simply waits for an event to happen and acts with our preset code when it does). We use a while loop to listen for an event. If it does not find an event in one loop the if-else statements inside will not be activated and thus, it will go on to the next iteration. When the event does happen (in this case the pressing of the key), the if-else statement is activated from its slumber and thus, in this rather ingenious way, we have created an event listener.     (Extension: Browsers listen for events like clicks or keypad presses in the same way).  
 
+
 ### Step 6  
 
 ![](https://i.imgur.com/Spxd5kb.png)  
@@ -90,6 +94,7 @@ Inside each if-else statement, we have decided to end the game if the wrong keyp
 If the right key was pressed, we immediately go on to the next LED light whilst ending the previous while loop or effeciency purposes (just to be clear, your code will still work but it’s best not to foster such bad habits).  
 Whilst going on to the next LED light, we make use of a concept called recursion. To fully understand the inner workings of recursions we must be familiar with concepts like execution contexts, which is beyond the scope of this tutorial.   
 
+
 ### Step 7  
 
 ![](https://i.imgur.com/tqrKglq.png)  
@@ -98,12 +103,14 @@ That was a lot of work!!
 
 But in the end, we have created a wonderful function that can be called recursively. It is remarkable that such a game can be simplified so much so that its crux is in one block of code!  
 
+
 ### Step 8  
 
 ![](https://i.imgur.com/ijyeL83.png)  
 
 Now we just want to tie up some loose strings.  
 The lose function is one that we will call when the player presses the wrong key. It is mostly self-explanatory and if you could get past the previous parts, it should be obvious what the code does.  
+
 
 ### Step 9  
 
@@ -122,7 +129,8 @@ Or you can download from the page below.
 &nbsp;
 
 
-## Wonderful!  
+## Wonderful!    
+---
 
 ![](https://i.imgur.com/HVAtYai.jpg)
 

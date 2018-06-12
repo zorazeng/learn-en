@@ -62,7 +62,7 @@ prevState: Array that stores the tilt values of the micro:bit from a previous lo
 ledPlotList: Plot led coordinate arrays in the form (x, y). To define an array , we use the type number[][] to indicate a nested array of variables of type: number.  
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/3-2.png)  
- 
+
  
 ### Step 2: Convert tilt values to levels    
 
