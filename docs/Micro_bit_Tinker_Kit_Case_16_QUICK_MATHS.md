@@ -1,8 +1,9 @@
-micro_bit_Tinker_Kit_Case_16_QUICK_MATHS.md
+![](https://i.imgur.com/qypElZv.jpg)
 
 QUICK MATHS is a game where its all about testing your mental calculation. Too slow, you lose; too fast, you may make mistakes.
 
-## Step 0: Pre-build Overview
+
+## Step 0: Pre-build Overview     
 ---
 
 - Use a Buzzer and OLED with the micro:bit.
@@ -12,7 +13,7 @@ QUICK MATHS is a game where its all about testing your mental calculation. Too s
 ![](https://i.imgur.com/PBa7qli.jpg)
 
 
-## Materials Required
+## Materials Required  
 ---
 
 - 1 x [BBC micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html "BBC micro:bit")
@@ -22,10 +23,10 @@ QUICK MATHS is a game where its all about testing your mental calculation. Too s
 - 1 x [OLED](http://www.elecfreaks.com/estore/iic-oled.html)
 
 
-## How to Make  
+## How to Make     
 ---
 
-### Step 1 – Components
+### Step 1 – Components  
 
 ![](https://i.imgur.com/3Q95A0p.jpg)
 ![](https://i.imgur.com/E9DHJw6.jpg)
@@ -35,7 +36,7 @@ Connect the buzzer to P0.
 Plug in the OLED as shown in the picture above. You can plug it into any of the three rows.
 
 
-### Step 2 – Pre-coding
+### Step 2 – Pre-coding  
 
 ![](https://i.imgur.com/S54AWdC.png)
 
@@ -44,7 +45,7 @@ We’ll need to add a package of code to be able to use our kit components. Clic
 This will open up a dialog box. Search for OLED. Click on the search icon or press enter, then select the oled-ssd1306.
 
 
-### Step 3 – Coding Initial Screen
+### Step 3 – Coding Initial Screen  
 
 ![](https://i.imgur.com/84GEN3d.png)
 
@@ -53,7 +54,7 @@ After that, create a variable named started and set it to false, as the game has
 Finally, use the blocks under the **Tinkercademy** section to initialise the OLED and display the messages as shown in the picture above.
 
 
-### Step 4: Coding Randomiser Function
+### Step 4: Coding Randomiser Function  
 
 ![](https://i.imgur.com/LDYsmUU.png)
 
@@ -78,7 +79,7 @@ However, if this is supposed to be false, we add 1 to correct answer.
 For Division (3), if the answer for this is supposed to be true, we set a to the product of i1 and i2, afterwards we swap the values of a and i1. However, if this is supposed be false, we add 1 to i1.
 
 
-### Step 5: Coding Display Function
+### Step 5: Coding Display Function  
 
 ![](https://i.imgur.com/ZzddjR4.png)
 
@@ -92,7 +93,7 @@ Under the OLED section, select the show string block and add the variables i1, s
 Now that the display function is done, call the function at the end of the randomise function, as you would want the question to be displayed after the values have been randomised.
 
 
-### Step 6: Coding the Start Action.
+### Step 6: Coding the Start Action   
 
 ![](https://i.imgur.com/aBB2MTL.png)
 
@@ -101,7 +102,7 @@ Firstly, create a start function. In this function, set the start value to be tr
 Now that the function is complete, add the 2 button pressed blocks under the input section for both buttons A and B. In both blocks, create an if-else statement to check if the game has started. If it hasn’t, call function start.
 
 
-### Step 7: Coding Check Function
+### Step 7: Coding Check Function  
 
 ![](https://i.imgur.com/wc9syCp.png)
 
@@ -117,7 +118,7 @@ Now that we have completed the correct and wrong functions, we need to call them
 ![](https://i.imgur.com/MvJMuie.png)
 
 
-### Bonus step 8: Coding Timer
+### Bonus step 8: Coding Timer  
 
 Now you have a functioning game. But to make things more exciting, we should add a timer. Before we dive into that, there are a few things we have to do first.
 Firstly, create an end function. Set up in the function accordingly. This may seem familiar as this is the last part of the wrong function. You can replace that portion by calling this function. This function would be called again to prevent reprogramming.
