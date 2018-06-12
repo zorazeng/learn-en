@@ -1,9 +1,10 @@
-micro_bit_Tinker_Kit_Case_19_Electric_Spirit_Level.md
+![](https://i.imgur.com/x8QD9mQ.jpg)
 
 Use this spirit level to quickly and easily display the tilt of any object attached!  
 Created by Kaitlyn from Raffles Institution.  
 
-## Goals    
+
+## Goals      
 ---
 
 - Learn to read tilt with micro:bit’s built-in accelerometer.  
@@ -12,7 +13,7 @@ Created by Kaitlyn from Raffles Institution.
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/1-1.png)  
 
 
-## Materials    
+## Materials      
 ---
 
 - 1 x BBC micro:bit  
@@ -20,14 +21,15 @@ Created by Kaitlyn from Raffles Institution.
 - 2 x AA Batteries  
 - 1 x Double AA Battery Pack  
 
-## Pre Coding: Connect your Micro:Bit  
+
+## Pre Coding: Connect your Micro:Bit    
 ---
 
 - Connect the BBC micro:bit to your computer using a micro USB cable.  
 - Access the javascript editor for the micro:bit at makecode.microbit.org.      
 
 
-### Step 0: Code Flow    
+### Step 0: Code Flow      
 
 Before we begin writing the code, we need to decide what we want to achieve with the program and in what order should each component run.  
 
@@ -47,10 +49,10 @@ Returning to default tilt calibration.
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/2-1.png)  
 
 
-## How to Make    
+## How to Make        
 ---
 
-### Step 1: Defining Variables  
+### Step 1: Defining Variables    
 
 We start by defining variables needed as shown. A breakdown of a few  variables are:  
 
@@ -61,7 +63,8 @@ ledPlotList: Plot led coordinate arrays in the form (x, y). To define an array ,
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/3-2.png)  
  
-### Step 2: Convert tilt values to levels  
+ 
+### Step 2: Convert tilt values to levels    
 
 As the 5x5 LED matrix can only display so much information, the actual tilt values will not be useful for display.
 
@@ -73,7 +76,8 @@ Here, tiltBoundary and tiltSensitivity are used as the boundary values between t
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/4-3.png)
 
-### Step 3: Compile tilt levels
+
+### Step 3: Compile tilt levels  
 
 The two functions checkRoll() and checkPitch() write the tilt levels obtained from tiltExtent() into tiltList for the roll (left-right) and the pitch (forward-backward) axes respectively.
 
@@ -83,7 +87,8 @@ As the accelerometer readings are negative for both left and forward tilt, we ne
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/5-3.png)
 
-### Step 4: Write LEDPlotList Functions
+
+### Step 4: Write LEDPlotList Functions  
 
 Having obtained the tilt levels in tiltList we can now write the led plotting functions for the different cases that can arise, namely
 
@@ -97,7 +102,8 @@ These plotting functions write an array of led coordinates to ledPlotList to be 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/7-2.png)
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/8-2.png)
 
-### Step 5: Plot LED Matrix for Each Case
+
+### Step 5: Plot LED Matrix for Each Case  
 
 Using the plotting functions from the three cases in step 4, we can now plot the actual LED matrix for the different possible combinations of tilt levels. As the three functions in step 4 do not discriminate with direction, we need to adjust the coordinate values passed to the LED matrix to plot the LEDs in the right directions.
 
@@ -124,7 +130,8 @@ Two directions: Forward-right or Backward-right.
 
 Note: For tilt in two directions, each combination can have the same or different magnitude (checked by comparing maxX and maxY), and hence plotted using plotDiagonal() or plotUnequal() respectively.
 
-### Step 6: Write Calibration Functions
+
+### Step 6: Write Calibration Functions  
 
 Having completed the bulk of the code, we now add in the calibTilt() and the resetTilt() functions.
 
@@ -133,7 +140,8 @@ resetTilt() resets the calibration of the board to its original state.
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/15.png)   
 
-### Step 7: Write State Function
+
+### Step 7: Write State Function  
 
 We add a simple function checkState() to check whether the tilt levels have changed from a previous iteration.
 
@@ -141,7 +149,8 @@ If there is no change in tilt levels from a previous iteration i.e. stateChange 
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/16.png)
 
-### Step 8: Putting It All Together Part 1!
+
+### Step 8: Putting It All Together Part 1!  
 
 Now we can finally place all the necessary functions into the micro:bit’s infinite loop to run it repeatedly.
 
@@ -149,7 +158,8 @@ Firstly, we set button A and B on the micro:bit to the calibTilt() and resetTilt
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/17.png)
 
-### Step 9: Putting it All Together Part 2!  
+
+### Step 9: Putting it All Together Part 2!    
 
 Next run the necessary functions according to our code flow in Step 0 and check for a state change (meaning that there has a change in the tilt of micro:bit since the last iteration).
 
@@ -166,7 +176,7 @@ Or you can download from the page below.
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:56811-31458-64502-76623" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-### Step 10: Assembly  
+### Step 10: Assembly    
 
 Flash the completed code to your micro:bit .
 Attach your micro:bit and the battery pack securely to any object and it is ready for use!
@@ -174,6 +184,6 @@ Attach your micro:bit and the battery pack securely to any object and it is read
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/19.png)
 
 
-### Awesome!  
+### Awesome!    
 
 Have fun with your electric spirit level! And while you’re at it, why not try to extend the capabilities of the tilt sensor or even turn it into a game?
