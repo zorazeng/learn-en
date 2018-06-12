@@ -1,6 +1,7 @@
-micro_bit_Tinker_Kit_Case_09_Lie_Detector.md  
+![](https://i.imgur.com/2Pcz8rt.jpg)
 
 With this machine, the truth will never escape you! As long as you can make your subject hold a moisture sensor for a while.     
+
 
 ## Step 0 – Pre Build Overview    
 ---
