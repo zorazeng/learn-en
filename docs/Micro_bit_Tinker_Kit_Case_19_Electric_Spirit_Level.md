@@ -49,7 +49,7 @@ Returning to default tilt calibration.
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/2-1.png)  
 
 
-## How to Make      
+## How to Make        
 ---
 
 ### Step 1: Defining Variables    
@@ -63,7 +63,7 @@ ledPlotList: Plot led coordinate arrays in the form (x, y). To define an array ,
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/3-2.png)  
 
-
+ 
 ### Step 2: Convert tilt values to levels    
 
 As the 5x5 LED matrix can only display so much information, the actual tilt values will not be useful for display.
@@ -87,7 +87,8 @@ As the accelerometer readings are negative for both left and forward tilt, we ne
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/5-3.png)
 
-### Step 4: Write LEDPlotList Functions
+
+### Step 4: Write LEDPlotList Functions  
 
 Having obtained the tilt levels in tiltList we can now write the led plotting functions for the different cases that can arise, namely
 
@@ -101,7 +102,8 @@ These plotting functions write an array of led coordinates to ledPlotList to be 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/7-2.png)
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/02/8-2.png)
 
-### Step 5: Plot LED Matrix for Each Case
+
+### Step 5: Plot LED Matrix for Each Case  
 
 Using the plotting functions from the three cases in step 4, we can now plot the actual LED matrix for the different possible combinations of tilt levels. As the three functions in step 4 do not discriminate with direction, we need to adjust the coordinate values passed to the LED matrix to plot the LEDs in the right directions.
 
