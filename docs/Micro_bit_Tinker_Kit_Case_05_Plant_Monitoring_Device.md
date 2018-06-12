@@ -1,16 +1,19 @@
+![](https://i.imgur.com/kUZLoEo.jpg)
 
 In this project, we are going to create a plant monitoring which the buzzer will sound when there is not enough water.  
 A message will always be displaying on the OLED, showing the moisture level.  
 
 
-## Goals:       
+## Goals:         
 ---
+
 1. Get to know the buzzer, OLED and moisture sensor.   
 2. Make something with a moisture sensor.   
 
 
-## Material Needed:    
+## Material Needed:      
 ---
+
 - 1 x [BBC Micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)  
 - 1 x Micro USB Cable  
 - 1 x [Breakout Board](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-breakout-board.html)  
@@ -22,7 +25,7 @@ A message will always be displaying on the OLED, showing the moisture level.
 Note: You can plug components in any sequence.  
 
 
-## How to Make  
+## How to Make    
 ---
 
 Firstly, plug in the OLED.  
