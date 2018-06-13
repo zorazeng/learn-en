@@ -1,11 +1,8 @@
-micro_bit_Tinker_Kit_Case_15_Maze_Runner.md
+![](https://i.imgur.com/NU4ZMjg.jpg)
 
-![](https://i.imgur.com/NU4ZMjg.jpg)  
+Can you make it through all levels?  
 
-Can you make it through all levels?    
-
-
-## Goals     
+## Goals  
 ---
 
 We’re going to create a maze game where you must navigate a series of mazes without running into the walls. You’ll learn how to:  
@@ -16,7 +13,7 @@ We’re going to create a maze game where you must navigate a series of mazes wi
 - Customize your game and add your own levels!
 
 
-## Materials    
+## Materials  
 ---
 
 1 x [BBC micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)  
@@ -28,9 +25,9 @@ We’re going to create a maze game where you must navigate a series of mazes wi
 ![](https://i.imgur.com/MFban0p.gif)  
 
 
-## How to Make  
+## How to Make
 
-### Step 1  
+### Step 1
 
 Plug in Buzzer to Pin0. Connect the positive lead to the yellow signal pin and the negative lead to the black ground pin on the breakout board.
 
@@ -39,7 +36,7 @@ Plug in the ADKeypad to Pin1. Match wire colors to pin colors on the breakout bo
 ![](https://i.imgur.com/K9JjTzn.jpg)
 
 
-### Step 2  
+### Step 2
 
 How to create a maze game on the micro:bit? We are going to display player’s position, LED walls and the maze paths with LEDs on the micro:bit board.
 
@@ -54,7 +51,7 @@ What do we set these variables to? We start at level 1 (of course), and we set g
 ![](https://i.imgur.com/KQSw1s0.png)  
 
 
-### Step 3    
+### Step 3  
 
 Now that we’ve set up our starting variables, let’s get our player to display on the micro:bit screen!
 
@@ -67,7 +64,7 @@ Remember the pause block is in milliseconds (so 300 ms = .3 seconds)! You can cu
 ![](https://i.imgur.com/gXqB9qe.png)  
 
 
-### Step 4    
+### Step 4  
 
 We’ve displayed the player on the micro:bit, but we can’t move it yet! Let’s add in player movement. We’re going to sense button press on the ADKeypad. But to do so, we need to import a special package into MakeCode.
 
@@ -82,7 +79,7 @@ Inside this category you’ll find blocks to sense button press on the ADKeypad.
 ![](https://i.imgur.com/Lrkqlkd.png)  
 
 
-### Step 5    
+### Step 5  
 
 Now that we have added Tinkercademy category, we can use the ADKeypad to move up, down, left, and right. In this example, we’ll set button A to move up, button C to move down, button D to move left, and button E to move right.
 
@@ -95,7 +92,7 @@ We need to add a short 300ms pause after each button pressed, otherwise the play
 ![](https://i.imgur.com/m8bz9Sn.png)  
 
 
-### Step 6    
+### Step 6  
 
 Now that we can move the player, let’s start creating our maze levels! Every time we start a level, we need to do a few things. 
 
@@ -123,7 +120,7 @@ And fourth, we change the level variable by 1 (this will cause the next level to
 ![](https://i.imgur.com/GKCRdUQ.png)  
 
 
-### Step 7    
+### Step 7  
 
 Setting up a level costs us a lot of work! Now that we have a single level, let’s make something happen when a player gets a game over. This will happen whenever they run into a wall, and it’s tracked by the ‘gameOn’ variable.
 
@@ -134,7 +131,7 @@ In this example, we play a sad melody in the background, reset the ‘level’, 
 ![](https://i.imgur.com/c2rRjIV.png)  
 
 
-### Step 8    
+### Step 8  
 
 Speaking of pressing B to restart the game, we haven’t yet created the code to do that!
 
@@ -143,7 +140,7 @@ Inside a forever loop, we test if button B on the ADKeypad is pressed. If it is,
 ![](https://i.imgur.com/bEAcQNv.png)  
 
 
-### Step 9    
+### Step 9  
 
 Now our game should work as intended! The only thing missed is more levels!
 
@@ -158,7 +155,7 @@ One thing to watch out: after the player has completed a level, you have to rese
 ![](https://i.imgur.com/Sf61L7z.png)  
 
 
-### Step 10    
+### Step 10  
 
 Once you have done this, you can optionally create a victory section. In this example, once the player have successfully completed the first 3 levels and level equals 4, we unplot the player by playing a victory melody in the background, and showing a victory message!  
 
@@ -174,7 +171,7 @@ Or you can download from the page below:
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_fCqa4399XUpv" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
-## Cool stuff!  
+## Cool stuff!
 
 Now that you’ve learned how to use the ADKeypad, you can try to control LEDs, servos, and other components! You’ve also learned about if statements which are useful in many micro:bit projects! Try to customize your maze runner game by adding more levels!
 

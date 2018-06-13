@@ -1,8 +1,9 @@
-micro_bit_Tinker_Kit_Case_17_Pitch_Perfect.md
+![](https://i.imgur.com/HYkxR5d.jpg)
 
 Do you think your ears are pitch perfect, then try my game. Or even better, create one!
 
-## Goals  
+
+## Goals    
 ---
 
 - Learn how to use a ADKeypad, the OLED screen and the buzzer.
@@ -11,7 +12,8 @@ Do you think your ears are pitch perfect, then try my game. Or even better, crea
 
 ![](https://i.imgur.com/lNJbWPG.jpg)
  
-## Materials Needed
+ 
+## Materials Needed  
 ---
 
 - 1 x [BBC micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)
@@ -22,10 +24,11 @@ Do you think your ears are pitch perfect, then try my game. Or even better, crea
 - 1 x [ADKeypad](http://www.elecfreaks.com/estore/octopus-adkeypad.html)
 - 1 x [Breakout Board](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-breakout-board.html)
 
-## How to Make
+
+## How to Make  
 ---
 
-### Step 1:
+### Step 1:  
 
 Firstly, plug in your buzzer to Pin 0, making sure the positive side (usually the longer end) is connected to the yellow signal pin and the negative end is connected to the black ground  pin on the breakout board.
 
@@ -43,7 +46,7 @@ This will open up a dialog box. Search for OLED. Click on the search icon or pre
 
 Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the  Projects file menu.
 
-### Step 3:
+### Step 3:  
 
 ![](https://i.imgur.com/ZGzxDCO.png)
 
@@ -53,7 +56,7 @@ Next, you have to set a variable starting score to 0 for the initial play. This 
 
 You need to write a simple instruction on how to start. Thus, a simple sentence “Press A to start ” will do.
 
-### Step 4:
+### Step 4:  
 
 ![](https://i.imgur.com/WmBJnOV.png)
 
@@ -71,7 +74,7 @@ If you are wondering, why the intialise OLED display and show string block is re
 
 ![](https://i.imgur.com/8abBXgw.png)
 
-### Step 6:
+### Step 6:  
 
 Once the user have gone through the mini-briefing of how the pitch sounds, you can get them ready. You can have a countdown for them to get ready on the game itself.
 
@@ -86,7 +89,7 @@ Repeat this step so you can have many tests to play with!
 ![](https://i.imgur.com/CqWtEwD.png)
 ![](https://i.imgur.com/jl3ogKg.png)
 
-### Step 7:
+### Step 7:  
 
 Once you are contempted with your tests, you can end the game by showing the latest scores. You can display in the OLED screen “Your score is:” with the variable score shown. Put a smiley for fun sake.
 And you are done! Enjoy the game.
