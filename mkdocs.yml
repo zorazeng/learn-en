@@ -99,6 +99,11 @@ pages:
     - Motor:bit: Motor_bit.md
     - Power:bit: Power_bit.md
     - Ring:bit: Ring_bit.md
+    - Basic:bit: Basic_bit.md
+    - Robit: 
+          - Robit_Introduction: Robit.md
+          - Case_01 Ultrasonic Distance Measurement: Robit_Case_01.md
+          - Case_02 Ultrasonic Obstacle Avoidance: Robit_Case_02.md
     - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
 
   - Micro:bit Kits:
@@ -151,7 +156,7 @@ pages:
           - Ring:bit Car Kit: Ring_bit_Car_Kit.md
           - Case_01 Add Package: Ring_bit_Car_Kit_Case_01_Add_Package.md
           - Case_02 S Walk: Ring_bit_Car_Kit_Case_02_S_Walk.md
-          - Case_03 Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circel.md
+          - Case_03 Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circle.md
           - Case_04 Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
           
   - Micro:bitAccessories:
@@ -159,6 +164,7 @@ pages:
     - 2xAA Battery Holder With ON/OFF Switch and Cover: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
     - Micro:case: Micro_case.md
     - Acrylic Case with Two AA Battery Holder: Acrylic_Case_with_Two_AA_Battery_Holder.md
+    - Smart Car Chassis for motor:bit: Smart_Car_Chassis_for_motor_bit.md
 # Google Analytics
 #google_analytics:
 #  - 'UA-XXXXXXXX-X'

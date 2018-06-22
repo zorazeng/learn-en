@@ -2,11 +2,18 @@
 
 Are you tired of complicated flashy modern games? Prefer to play your games on a 5 x 5 resolution rather than a 4K resolution? Have some arcade fun on your micro:bit with Space Shooter! This tutorial is in JavaScript. Typing! Many typing!
 
+<<<<<<< HEAD
+=======
+
+## Step 0： Pre-build Overview  
+---
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 ## Step 0： Pre Build Overview    
 ---
 
 In this project, we will create a simple space shooter game where you have to try to shoot and avoid falling projectiles. 
+
 
 
 ## Materials:    
@@ -20,7 +27,12 @@ In this project, we will create a simple space shooter game where you have to tr
 ![](https://i.imgur.com/JQVhM8j.jpg)  
 
 
+<<<<<<< HEAD
 ## Goals    
+=======
+
+## Goals     
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 ---
 
 - Learn to use the ADKeyboard.  
@@ -28,18 +40,43 @@ In this project, we will create a simple space shooter game where you have to tr
 - Learn more about programming with Javascript.  
 
 
-## How to Make    
+## How to Make
+---
 
+<<<<<<< HEAD
 ### Step 1 – Components
 
 ![](https://i.imgur.com/vZCaRgF.jpg)
+=======
+### Step 1 – Components    
+
+![](http://www.elecfreaks.com/estore/download/spaceshooter-2.jpg)  
+
+First of all, plug in the ADKeypad. Ensure the colours match and take note of what pin you plug them into as it will be relevant later. 
+
+
+### Step 2 – Pre Coding    
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 First of all, plug in the ADKeypad. Ensure the colours match and take note of what pin you plug them into as it will be relevant later.
 
 
 ### Step 2 – Coding
 
+<<<<<<< HEAD
 ![](https://i.imgur.com/JhTbZcr.png)
+=======
+This will open up a dialog box. Search for "tinker kit", and then click on it to download this package.
+
+![](https://i.imgur.com/oh9z2mH.png)
+
+Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.
+
+
+### Step 3 – Coding    
+
+![](http://www.elecfreaks.com/estore/download/spaceshooter-5.png)
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 In this project, we will use Javascript to code, so first of all, switch to Javascript mode on the top of the page.
 
@@ -103,13 +140,21 @@ Or download from the page below.
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:88941-65098-41980-28805" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
+<<<<<<< HEAD
 ### Step 3: Using It
+=======
+### Step 4: Using It  
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 ![](https://i.imgur.com/AkL0Vuj.jpg)
 
 Playing the game is very simple. Just use the A button on the ADKeyboard to start the game, use the C and E buttons to move and the D key to shoot the aliens!
 
 
+<<<<<<< HEAD
 ### Step 4 – Success!
+=======
+### Step 5 – Succeed!  
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 Voila! Time to have some old fashioned arcade fun with your new space shooter. What highscore can you reach?

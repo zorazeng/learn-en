@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 ![](https://i.imgur.com/2Pcz8rt.jpg)  
+=======
+![](https://i.imgur.com/2Pcz8rt.jpg)
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 With this machine, the truth will never escape you! As long as you can make your subject hold a moisture sensor for a while.       
+
 
 ## Step 0 – Pre Build Overview    
 ---  

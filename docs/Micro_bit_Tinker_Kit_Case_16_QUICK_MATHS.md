@@ -3,8 +3,14 @@
 QUICK MATHS is a game where its all about testing your mental calculation. Too slow, you lose; too fast, you may make mistakes.
 
 
+<<<<<<< HEAD
 ## Step 0 – Pre Build Overview  
 ---  
+=======
+
+## Step 0: Pre-build Overview     
+---
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 - Use a Buzzer and OLED with the micro:bit.
 - Use if-else statements to evaluate conditions.
@@ -13,8 +19,13 @@ QUICK MATHS is a game where its all about testing your mental calculation. Too s
 ![](https://i.imgur.com/PBa7qli.jpg)
 
 
+<<<<<<< HEAD
 ## Materials required  
 ---  
+=======
+## Materials Required  
+---
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 - 1 x [BBC micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html "BBC micro:bit")  
 - 1 x Micro USB cable  
@@ -23,8 +34,13 @@ QUICK MATHS is a game where its all about testing your mental calculation. Too s
 - 1 x [OLED](http://www.elecfreaks.com/estore/iic-oled.html)  
 
 
+<<<<<<< HEAD
 ## How to Make    
 ---  
+=======
+## How to Make     
+---
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 ### Step 1 – Components  
 
@@ -93,7 +109,11 @@ Under the OLED section, select the show string block and add the variables i1, s
 Now that the display function is done, call the function at the end of the randomise function, as you would want the question to be displayed after the values have been randomised.
 
 
+<<<<<<< HEAD
 ### Step 6: Coding the Start Action  
+=======
+### Step 6: Coding the Start Action   
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 ![](https://i.imgur.com/aBB2MTL.png)
 

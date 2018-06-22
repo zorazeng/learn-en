@@ -3,7 +3,11 @@
 Are your psychomotor skills as bad as mine?
 
 
+<<<<<<< HEAD
 ## Goals
+=======
+## Goals    
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 ---
 
 We are going to create a game where the player must click on a key (on the ADKeypad) that corresponds to the column on which a random LED lights up (A for the first column and E for the last). The pace at which the LED lights up gets quicker and quicker as the game goes on. You’ll learn how to：
@@ -57,14 +61,24 @@ I have created a bunch of if-else statements inside a loop. These statements per
 
 ![](https://i.imgur.com/0WIqH6P.png)
 
+<<<<<<< HEAD
 Inside the if-else statement, we check to see which key was pressed and if it corresponds to the column of the LED (x-coordinate). If it was, we CALL THE FUNCTION AGAIN. This is how recursive programming works. By calling the function again, we basically start over with a new LED. Note that when we call the function again we decrease the value of the time variable and thus the pause duration will be shorter.
+=======
+
+### Step 3  
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 Note that I unplotted the point first LED. This is to ensure that we don’t have more than one LED in each round so as to not confuse the player. If you wanted to make the game more difficult, you could show multiple LEDs and play for only the most recent LED that lights up. Treat that as an extension!
 Interestingly, I have set bool to false. Why?
 
 ### Step 4
 
+<<<<<<< HEAD
 ![](https://i.imgur.com/qKCa1J1.png)
+=======
+
+### Step 4  
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 The bool is set to false so as to terminate the above while loop. This is not strictly necessary and I initially disregarded this. However, it is important to note that terminating the while loop greatly improves the efficiency of your program and efficiency of our programs is something generally worth considering.
 
@@ -82,7 +96,12 @@ In anticipation of the function being called in some point in the future, we dec
 
 We run our own homemade event listener (the name betrays its function – it simply waits for an event to happen and acts with our preset code when it does). We use a while loop to listen for an event. If it does not find an event in one loop the if-else statements inside will not be activated and thus, it will go on to the next iteration. When the event does happen (in this case the pressing of the key), the if-else statement is activated from its slumber and thus, in this rather ingenious way, we have created an event listener. (Extension: Browsers listen for events like clicks or keypad presses in the same way).
 
+<<<<<<< HEAD
 ### Step 6
+=======
+
+### Step 6  
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 ![](https://i.imgur.com/Spxd5kb.png)
 
@@ -91,7 +110,12 @@ Inside each if-else statement, we have decided to end the game if the wrong keyp
 If the right key was pressed, we immediately go on to the next LED light whilst ending the previous while loop or effeciency purposes (just to be clear, your code will still work but it’s best not to foster such bad habits).
 Whilst going on to the next LED light, we make use of a concept called recursion. To fully understand the inner workings of recursions we must be familiar with concepts like execution contexts, which is beyond the scope of this tutorial. 
 
+<<<<<<< HEAD
 ### Step 7
+=======
+
+### Step 7  
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 ![](https://i.imgur.com/tqrKglq.png)
 
@@ -99,12 +123,18 @@ That was a lot of work!!
 
 But in the end, we have created a wonderful function that can be called recursively. It is remarkable that such a game can be simplified so much so that its crux is in one block of code!
 
+<<<<<<< HEAD
 ### Step 8
+=======
+
+### Step 8  
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 ![](https://i.imgur.com/ijyeL83.png)
 
 Now we just want to tie up some loose strings.
 The lose function is one that we will call when the player presses the wrong key. It is mostly self-explanatory and if you could get past the previous parts, it should be obvious what the code does.
+
 
 ### Step 9  
 
@@ -122,9 +152,14 @@ Or you can download from the page below.
 &nbsp;
 
 
+<<<<<<< HEAD
 ### Wonderful!  
 
 ![](https://i.imgur.com/HVAtYai.jpg)  
+=======
+## Wonderful!    
+---
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 You have completed this tutorial! If you wish to challenge yourself further, go ahead and add a counter that counts the number of points a player gets before he/she loses. Clue: Create a variable called counter and increment it as you see fit. Remember to display it as well!  
 

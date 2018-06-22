@@ -3,15 +3,36 @@
 In this article,we are going to talk about how to use micro:bit with buzzer, OLED and moisture sensor to build a case of plant detection device.
 
 
+<<<<<<< HEAD
 ## Goals:  
 ---
+=======
+## Goals:         
+---
+
+1. Get to know the buzzer, OLED and moisture sensor.   
+2. Make something with a moisture sensor.   
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 - Get to know the buzzer, OLED and moisture sensor.
 - Make something with a moisture sensor.
 
+<<<<<<< HEAD
 
 ## Material Needed:  
 ---
+=======
+## Material Needed:      
+---
+
+- 1 x [BBC Micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)  
+- 1 x Micro USB Cable  
+- 1 x [Breakout Board](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-breakout-board.html)  
+- 1 x [Mini Buzzer](https://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html)  
+- 1 x [OLED](https://www.elecfreaks.com/estore/iic-oled.html)  
+- 1 x [Moisture Sensor](https://www.elecfreaks.com/estore/octopus-soil-moisture-sensor-brick.html)  
+- 2 x Female-Female Jumper Wires  
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 - 1 x [BBC Micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)
 - 1 x Micro USB Cable
@@ -23,7 +44,12 @@ In this article,we are going to talk about how to use micro:bit with buzzer, OLE
 
 Note: You can plug components in any sequence.
 
+<<<<<<< HEAD
 In this project, we are going to create a plant monitoring which the buzzer will sound when there is not enough water.
+=======
+## How to Make    
+---
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 A message will always be displaying on the OLED, showing the moisture level.
 

@@ -2,7 +2,10 @@
 
 Can you make it through all levels?  
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 ## Goals  
 ---
 
@@ -17,11 +20,19 @@ We’re going to create a maze game where you must navigate a series of mazes wi
 ## Materials  
 ---
 
+<<<<<<< HEAD
 - 1 x [BBC micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)  
 - 1 x Micro USB cable  
 - 1 x [Buzzer](https://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html)  
 - 2 x F-F Jumper Wires  
 - 1 x [ADKeypad](https://www.elecfreaks.com/estore/octopus-adkeypad.html)  
+=======
+1 x [BBC micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)  
+1 x Micro USB cable  
+1 x [Buzzer](https://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html)  
+2 x F-F Jumper Wires  
+1 x [ADKeypad](https://www.elecfreaks.com/estore/octopus-adkeypad.html)  
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 ![](https://i.imgur.com/MFban0p.gif)  
 
@@ -175,3 +186,7 @@ Or you can download from the page below:
 ## Cool stuff!
 
 Now that you’ve learned how to use the ADKeypad, you can try to control LEDs, servos, and other components! You’ve also learned about if statements which are useful in many micro:bit projects! Try to customize your maze runner game by adding more levels!
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
