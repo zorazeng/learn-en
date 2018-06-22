@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Don’t like people sneaking up on you? Here’s just the right micro:bit project for you! In this course, we learn how to make use of the motion sensor, the moisture sensor as well as how they can be coded for.
 
 
@@ -7,15 +6,6 @@ Don’t like people sneaking up on you? Here’s just the right micro:bit projec
 
 - Get to know the PIR Sensor Brick and moisture sensor.  
 - Make something with a PIR Sensor Brick.  
-=======
- 
-Don’t like people sneaking up on you? Here’s just the right micro:bit project for you! In this course, we learn how to make use of the motion sensor, the moisture sensor as well as how they can be coded for.     
-
-## Goals:    
----
-- Get to know the PIR Sensor Brick and moisture sensor.   
-- Make something with a PIR Sensor Brick.   
->>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 - Make something with a Moisture Sensor.  
 
 
