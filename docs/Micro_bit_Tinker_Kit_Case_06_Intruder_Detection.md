@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![](https://i.imgur.com/RL8DL2M.png)
 
 Swiper no swiping!
@@ -6,35 +5,13 @@ Stop burglars with this simple intruder detection system.
 
 
 ## Step 0 – Pre-build Overview  
-=======
-![](https://i.imgur.com/beCyIpm.png)
-
-Swiper no swiping!  
-Stop burglars with this simple intruder detection system.  
-
-
-## Step 0 – Pre-build Overview        
->>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 ---
 
 In this project, we are going to create an intruder detection system which will sound when someone opens the door. The status of the house will be displayed on the OLED.  
 
 
-<<<<<<< HEAD
 ## Materials:  
 ---
-=======
-## Materials:      
----
-
-- 1 x [BBC micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)  
-- 1 x Micro USB cable  
-- 1 x [Breakout board](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-breakout-board.html)  
-- 1 x [Crash Sensor](https://www.elecfreaks.com/estore/octopus-crash-sensor-brick.html)  
-- 1 x [OLED](https://www.elecfreaks.com/estore/iic-oled.html)  
-- 1 x [Buzzer](https://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html)  
-- 2 x Female-Female jumper wires  
->>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 - 1 x [BBC micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)
 - 1 x Micro USB cable
@@ -44,7 +21,6 @@ In this project, we are going to create an intruder detection system which will 
 - 1 x [Buzzer](https://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html)
 - 2 x Female-Female jumper wires
 
-<<<<<<< HEAD
 
 ## Goals:  
 ---
@@ -58,20 +34,6 @@ In this project, we are going to create an intruder detection system which will 
 ---  
 
 ### Step 1 – Components    
-=======
-## Goals:       
----
-
-- Get to know the Crash Sensor, OLED and Buzzer  
-- Make something with a OLED  
-- Make something with a Crash Sensor  
-
-
-## How to Make       
----
-
-### Step 1 – Components   
->>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
 
 Insert the micro:bit into the Breakout Board and plug in the micro USB cable.  
 
@@ -86,7 +48,7 @@ Plug in the crash sensor to Pin 1. Make sure the colour of the wire follows the 
 ![](https://i.imgur.com/YvQkd81.jpg)  
 
 
-### Step 2 – Pre-coding      
+### Step 2 – Pre-coding    
 
 ![](https://i.imgur.com/qPgEmnW.jpg)  
 
@@ -101,7 +63,7 @@ This will open up a dialog box. Search for "tinker kit" and then click it for 
 Note: If you get a warning telling you some packages will be removed because of incompatibility issues, either follow the prompts or create a new project in the Projects file menu.  
 
 
-### Step 3 – Coding      
+### Step 3 – Coding    
 
 ![](https://i.imgur.com/OKjXb0c.jpg)  
 
@@ -123,12 +85,6 @@ Or you can download from the page below.
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_A0zFxqMPMXbo" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
 
-<<<<<<< HEAD
 ### Step 4 – Success!    
 
 Voilà! You have created a intruder detector!
-=======
-### Step 4 – Success!  
-
-Voilà! You have created a intruder detector!  
->>>>>>> 5624b2f60e595948b2859bd4b3f999d2fb29077a
