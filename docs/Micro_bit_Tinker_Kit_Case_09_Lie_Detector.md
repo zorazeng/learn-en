@@ -1,15 +1,15 @@
-micro_bit_Tinker_Kit_Case_09_Lie_Detector.md  
+![](https://i.imgur.com/2Pcz8rt.jpg)  
 
-With this machine, the truth will never escape you! As long as you can make your subject hold a moisture sensor for a while.     
+With this machine, the truth will never escape you! As long as you can make your subject hold a moisture sensor for a while.       
 
 ## Step 0 – Pre Build Overview    
----
+---  
 
 In this project, we will create a simple lie detector machine, which works by measuring the electrical conductivity of our skin. Upon feeling nervous, our skin’s electrical conductivity will increase, and the moisture sensor can pick up on that. This allows us to determine if a person is telling the truth or not.   
 
 
-## Materials     
----  
+## Material Needed     
+---   
 
 - 1 x [BBC micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)  
 - 1 x Micro USB cable  
@@ -17,7 +17,7 @@ In this project, we will create a simple lie detector machine, which works by me
 - 1 x Octopus OLED  
 - 1 x [Moisture Sensor](http://www.elecfreaks.com/estore/octopus-soil-moisture-sensor-brick.html)  
 
-Tips: If you want all components above, you may need [ElecFreaks Micro:bit Tinker Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-tinker-kit.html).  
+**Tips: If you want all components above, you may need [ElecFreaks Micro:bit Tinker Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-tinker-kit.html).**  
 
 ![](https://i.imgur.com/eDFUaml.jpg)  
 
@@ -99,5 +99,3 @@ After the initial readings have been made, ask again! If the person has lied, he
 ### Step 5 Success!  
 
 Voila! Now you can test lies with this machine easily.  
-
-

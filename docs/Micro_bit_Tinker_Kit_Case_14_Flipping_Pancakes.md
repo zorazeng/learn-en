@@ -1,7 +1,10 @@
-Do you have what it takes to flip the perfect pancake?
+![](https://i.imgur.com/KAWV4hQ.jpg)  
 
-## Goals
----
+Do you have what it takes to flip the perfect pancake?  
+
+
+## Goals  
+---  
 
 We’re going to create a flippy pancake game where you must flip the pancake at the perfect time. Too fast, your pancake will be mushy; too slow, it will be burnt! You’ll learn how to…   
 
@@ -10,8 +13,9 @@ We’re going to create a flippy pancake game where you must flip the pancake at
 - Create your own function on MakeCode.  
 - Customise your game!  
 
-## Materials
----
+
+## Materials  
+---  
 
 - 1 x BBC micro:bit  
 - 1 x Micro USB cable  
@@ -21,10 +25,11 @@ We’re going to create a flippy pancake game where you must flip the pancake at
 
 ![](https://i.imgur.com/QXLEvIN.gif)
 
-## How to Make
----  
 
-### Step 1  
+## How to Make  
+---    
+
+### Step 1    
 
 Plug in your Buzzer to Pin0. Make sure the positive lead is connected to the yellow signal pin and the negative lead is connected to the black ground pin on the breakout board.  
 
@@ -32,8 +37,7 @@ Plug in the ADKeypad to Pin1. Match the colours of the wires to the ones on the 
 
 ![](https://i.imgur.com/B8xs2c5.jpg)
 
-
-### Step 2
+### Step 2  
 
 In Makecode, we’ll track the length of time using two variables. Variables are like buckets that can hold changing values.
 
@@ -65,7 +69,6 @@ Feel free to customise your own pancake-flipping animation. This is just one exa
 
 ![](https://i.imgur.com/G19eBMP.png)
 
-
 ### Step 4
 
 Now we’re going to sense button press on the ADKeypad. To do so, we need to import a special package into MakeCode.
@@ -79,7 +82,6 @@ Now you’ll see something new in MakeCode – a bright green Tinkercademy categ
 Inside this category, you’ll find blocks to sense button press on the ADKeypad. This package importation only happens in current project. So if you start a new project, you’ll need to re-import it.
 
 ![](https://i.imgur.com/Y9DZFDh.png)
-
 
 ### Step 5
 
@@ -102,7 +104,6 @@ Finally, if neither of the previous two conditions are true, then we know that t
 ![](https://i.imgur.com/FafT0oa.png)
 ![](https://i.imgur.com/Dd2ypuT.png)
 
-
 ### Step 6
 
 Now that we have the game running. Let’s make it so that players can play more than once without resetting the micro:bit.
@@ -112,7 +113,6 @@ To do this, we’ll reset the game when button B is pressed on the ADKeypad. Onc
 What else do we need to do when we restart the game? In this case, all we need to do is to display a new pancake, and reset the starting time.
 
 ![](https://i.imgur.com/Oz44yck.png)
-
 
 ### Step 7
 
@@ -124,7 +124,6 @@ We need to set these melodies to play ‘once in the background’, otherwise it
 
 ![](https://i.imgur.com/L6iOVxl.png)
 
-
 ### Step 8
 
 Finally, let’s add some starting music and a starting message when we first start up the micro:bit. Note: Add this onto your existing code. It’s not a brand new section!
@@ -133,7 +132,6 @@ We can use the buzzer once again to play a melody (once again we want it to play
 
 ![](https://i.imgur.com/58yN3Cz.png)
 
-
 If you don't want to type these code by yourself, you can download directly from the link below.
 
 [https://makecode.microbit.org/_aepYrcgwLFEy](https://makecode.microbit.org/_aepYrcgwLFEy)
@@ -141,7 +139,6 @@ If you don't want to type these code by yourself, you can download directly from
 Or you can download from the page below.
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_aepYrcgwLFEy" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
-
 
 ### Cool Stuff!
 

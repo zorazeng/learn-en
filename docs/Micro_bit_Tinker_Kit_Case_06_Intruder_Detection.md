@@ -1,37 +1,40 @@
+![](https://i.imgur.com/RL8DL2M.png)
 
-## Intruder Detection  
-
-
-Swiper no swiping!  
-Stop burglars with this simple intruder detection system.  
+Swiper no swiping!
+Stop burglars with this simple intruder detection system.
 
 
-## Step 0 – Pre-build Overview      
+## Step 0 – Pre-build Overview  
 ---
 
 In this project, we are going to create an intruder detection system which will sound when someone opens the door. The status of the house will be displayed on the OLED.  
 
-## Materials:    
+
+## Materials:  
 ---
-- 1 x [BBC micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)  
-- 1 x Micro USB cable  
-- 1 x [Breakout board](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-breakout-board.html)  
-- 1 x [Crash Sensor](https://www.elecfreaks.com/estore/octopus-crash-sensor-brick.html)  
-- 1 x [OLED](https://www.elecfreaks.com/estore/iic-oled.html)  
-- 1 x [Buzzer](https://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html)  
-- 2 x Female-Female jumper wires  
+
+- 1 x [BBC micro:bit](http://www.elecfreaks.com/estore/micro-bit-board.html)
+- 1 x Micro USB cable
+- 1 x [Breakout board](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-breakout-board.html)
+- 1 x [Crash Sensor](https://www.elecfreaks.com/estore/octopus-crash-sensor-brick.html)
+- 1 x [OLED](https://www.elecfreaks.com/estore/iic-oled.html)
+- 1 x [Buzzer](https://www.elecfreaks.com/estore/octopus-passive-buzzer-brick-obpb01.html)
+- 2 x Female-Female jumper wires
 
 
-## Goals:    
+## Goals:  
 ---
-- Get to know the Crash Sensor, OLED and Buzzer  
-- Make something with a OLED  
-- Make something with a Crash Sensor  
+
+- Get to know the Crash Sensor, OLED and Buzzer
+- Make something with a OLED
+- Make something with a Crash Sensor
 
 
 ## How to Make    
----
+---  
+
 ### Step 1 – Components    
+
 Insert the micro:bit into the Breakout Board and plug in the micro USB cable.  
 
 ![](https://i.imgur.com/cvJnbqE.jpg)  
@@ -66,16 +69,16 @@ Note: If you get a warning telling you some packages will be removed because of
 
 Click on Tinkercademy inside the Code Drawer to find our custom blocks for the various components in your kit.  
 
-![](https://i.imgur.com/UwHfSVv.jpg)  
+![](https://i.imgur.com/UwHfSVv.jpg)   
 
 You should always initialize the OLED at the beginning. 64 and 128 represent the height and width of the OLED respectively.  
 
 ![](https://i.imgur.com/GIhLCLU.jpg)  
 
 Since there are only two conditions, we need only one “else-if”statement.  
-When crash sensor is triggered, the buzzer will sound and the OLED will display the message “Intruder Detected”. Or else, if there is no force is applied to the crash sensor, the buzzer will not sound and the OLED will display the message “The house is safe”.  
+When crash sensor is triggered, the buzzer will sound and the OLED will display the message “Intruder Detected”. Or else, if there is no force is applied to the crash sensor, the buzzer will not sound and the OLED will display the message “The house is safe”.
 
-If you don't want to type these code by yourself, you can download the whole program directly from the link below [https://makecode.microbit.org/_A0zFxqMPMXbo](https://makecode.microbit.org/_A0zFxqMPMXbo)
+If you don't want to type these code by yourself, you can download the whole program directly from the link below.   [https://makecode.microbit.org/_A0zFxqMPMXbo](https://makecode.microbit.org/_A0zFxqMPMXbo)  
 
 Or you can download from the page below.  
 
@@ -83,4 +86,5 @@ Or you can download from the page below.
 
 
 ### Step 4 – Success!    
-Voilà! You have created a intruder detector!  
+
+Voilà! You have created a intruder detector!

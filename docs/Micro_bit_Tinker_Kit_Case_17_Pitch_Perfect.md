@@ -1,4 +1,4 @@
-micro_bit_Tinker_Kit_Case_17_Pitch_Perfect.md
+![](https://i.imgur.com/3UvMa0h.jpg)
 
 Do you think your ears are pitch perfect, then try my game. Or even better, create one!
 
@@ -10,7 +10,8 @@ Do you think your ears are pitch perfect, then try my game. Or even better, crea
 - Learn the if-else statement functionality.
 
 ![](https://i.imgur.com/lNJbWPG.jpg)
- 
+
+
 ## Materials Needed
 ---
 
@@ -21,6 +22,7 @@ Do you think your ears are pitch perfect, then try my game. Or even better, crea
 - 1 x [OLED](http://www.elecfreaks.com/estore/iic-oled.html)
 - 1 x [ADKeypad](http://www.elecfreaks.com/estore/octopus-adkeypad.html)
 - 1 x [Breakout Board](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-breakout-board.html)
+
 
 ## How to Make
 ---
@@ -95,8 +97,9 @@ And you are done! Enjoy the game.
 
 If you don't want to type these code by yourself, you can directly download the whole program from the link below.
 
-[https://makecode.microbit.org/40622-92227-41289-45624](https://makecode.microbit.org/40622-92227-41289-45624)
+[https://makecode.microbit.org/_A26fCxRz1P1g](https://makecode.microbit.org/_A26fCxRz1P1g)
 
 Or you can download from the page below.
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_hFx5DY8ytKqD" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_A26fCxRz1P1g" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
