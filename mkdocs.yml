@@ -101,7 +101,7 @@ pages:
     - Ring:bit: Ring_bit.md
     - Basic:bit: Basic_bit.md
     - Robit: 
-          - Robit_Introduction: Robit_EN.md
+          - Robit_Introduction: Robit.md
           - Case_01 Ultrasonic Distance Measurement: Robit_Case_01.md
           - Case_02 Ultrasonic Obstacle Avoidance: Robit_Case_02.md
     - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
