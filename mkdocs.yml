@@ -104,6 +104,8 @@ pages:
           - Robit_Introduction: Robit.md
           - Case_01 Ultrasonic Distance Measurement: Robit_Case_01.md
           - Case_02 Ultrasonic Obstacle Avoidance: Robit_Case_02.md
+          - Case_03 Never Fallen Car: Robit_Case_03.md
+          - Case_04 Line Tracking: Robit_Case_04.md
     - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
 
   - Micro:bit Kits:
