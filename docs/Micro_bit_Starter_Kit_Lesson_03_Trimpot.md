@@ -84,7 +84,7 @@ Rotate trimpot button, voltage value will be displayed on Micro:bit 5*5 LED scre
 If we want to use trimpot to adjust the brightness of a LED, then how to design circuit and program? Your further discussions or comments are welcomed!
 
 
-## Relative Readings
+## Relative Readings  
 ---
 - [Micro_bit_Starter_Kit_Lesson_01_LED](/Micro_bit_Starter_Kit_Lesson_01_LED/)
 - [Micro_bit_Starter_Kit_Lesson_02_Button](/Micro_bit_Starter_Kit_Lesson_02_Button/)
