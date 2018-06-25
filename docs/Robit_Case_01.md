@@ -2,7 +2,7 @@
 ---
 
 - Get to know ultrasonic wave and how to use it to measure distance. 
-- Use Robit to control the ultrasonic module on mBot to achieve distance measurement. 
+- Achieve distance measurement with the ultrasonic module on mBot(controlled by robit). 
 
 
 ## Material Needed
