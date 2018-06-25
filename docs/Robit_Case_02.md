@@ -4,7 +4,7 @@
 ## Our Goal 
 ---
 
-Use Robit to control mBot car to achieve obstacle avoidance. 
+Make mBot car (controlled by robit) avoid obstacle. 
 
 
 ## Material Needed
