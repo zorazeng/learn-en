@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Trimpot （or potentiometer) is a kind of common pressure adjustment components. In the following experiment, we are going to read output voltage on trimpot and display it by Micro:bit 5*5 LED screen with bar graph.
+Trimpot （or potentiometer) is a kind of common pressure adjustment components. In the following experiment, we are going to read output voltage on trimpot and display it by Micro:bit 5x5 LED screen with bar graph.
 
 
 ## Components:
