@@ -30,7 +30,7 @@ Users can develop mobile-controlled robot, robot arms, etc..
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/000.png)
 
-###Detailed Introduction Of Some Connectors：
+### Detailed Introduction Of Some Connectors：
 
 **1.VCC Switch-3.3V/5V electric level switch.**
 
@@ -66,7 +66,7 @@ M1，M2 Motor Control Instruction: P8 and P12 relatively controls the rotating d
 
 ## Example
 
-###Hardware Connection
+### Hardware Connection
 Please connect components according to the picture below:
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/8.jpg)
