@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Trimpot （or potentiometer) is a kind of common pressure adjustment components. In the following experiment, we are going to read output voltage on trimpot and display it by Micro:bit 5*5 LED screen with bar graph.
+Trimpot （or potentiometer) is a kind of common pressure adjustment components. In the following experiment, we are going to read output voltage on trimpot and display it by Micro:bit 5x5 LED screen with bar graph.
 
 
 ## Components:
@@ -72,10 +72,9 @@ Read an analog signal (0 through 1023) from the pin you say.
 ## Experiment Result
 ---
 
-Rotate trimpot button, voltage value will be displayed on Micro:bit 5*5 LED screen with bar graph. When voltage read out to be “0”, LED screen display a pixel spot only. While the voltage becomes 3.3V, LED screen will be fully illuminated.
+Rotate trimpot button, voltage value will be displayed on Micro:bit 5x5 LED screen with bar graph. When voltage read out to be “0”, LED screen display a pixel spot only. While the voltage becomes 3.3V, LED screen will be fully illuminated.
 
-<p style="text-align: center;"><span style="color: red; font-size: 12pt;"><span style="font-family: Arial;"><img class="aligncenter size-full wp-image-9882" src="https://www.elecfreaks.com/wp-content/uploads/2017/09/1.gif" alt="1" width="400" height="267" />
-
+![](https://i.imgur.com/TDVgFln.gif)
 
 
 ## Think

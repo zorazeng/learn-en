@@ -1,5 +1,5 @@
 
-## Introduction
+## Introduction   
 
 [ELECFREKAS Motor:bit](http://www.elecfreaks.com/estore/elecfreaks-motor-bit-for-micro-bit.html) is a kind of motor drive board based on micro:bit. It has integrated a motor drive chip TB6612, which can drive two DC motors with 1.2A max single channel current. Motor:bit has integrated Octopus series' sensor connectors. You can plug various sensors into it directly. Among these connectors, P0, P3-P7, P9-P10 support sensors with 3.3V power voltage only; P13-P16, P19-P20 support 3.3V or 5V sensors. You can change electric level by sliding the switch on the board.
 
@@ -30,7 +30,9 @@ Users can develop mobile-controlled robot, robot arms, etc..
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/000.png)
 
+
 ### Detailed Introduction Of Some Connectors：
+
 
 **1.VCC Switch-3.3V/5V electric level switch.**
 
@@ -66,7 +68,9 @@ M1，M2 Motor Control Instruction: P8 and P12 relatively controls the rotating d
 
 ## Example
 
+
 ### Hardware Connection
+
 Please connect components according to the picture below:
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/8.jpg)
