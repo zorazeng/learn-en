@@ -1,7 +1,7 @@
 ## Introduction
 ---
 
-Sensor:bit is a breakout board based on micro:bit. It has extended all available IO ports on micro:bit, and lead out them in the form of GVS. With this board, we can extend various 3V electric brick modules like LED light, photocell, etc.. On the board, it has integrated a buzzer and an audio socket, which allows us to hear music from the buzzer or with our headphone.
+Sensor:bit is a breakout board based on micro:bit. It has extended all available IO ports on micro:bit, and lead out them in the form of GVS. With this board, we can extend various 3V electric brick modules like LED light, photocell, etc.. On the board, it has integrated a buzzer and an audio jack, which allows us to hear music from the buzzer or with our headphone.
 
 ![](https://i.imgur.com/urCCzAZ.jpg)
 
@@ -11,7 +11,7 @@ Sensor:bit is a breakout board based on micro:bit. It has extended all available
 
 - Extend most IO ports by GVS terminal. 
 - Independently lead out IIC interface. Enable to plug in IIC components like OLED, BME280, etc..
-- Integrated a buzzer and an audio socket. 
+- Integrated a buzzer and an audio jack. 
 - Support Lego interface. 
 - Mark out each IO port with silk printing. 
 
@@ -34,7 +34,7 @@ Sensor:bit is a breakout board based on micro:bit. It has extended all available
 ## Introduction of Major Components
 ---
 
-### Audio Socket
+### Audio Jack
 
 ![](https://i.imgur.com/0iA1JlU.png)
 
