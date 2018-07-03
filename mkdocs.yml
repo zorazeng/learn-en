@@ -164,7 +164,8 @@ pages:
           - Case_03 Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circle.md
           - Case_04 Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
           
-  - Micro:bitAccessories:
+  - Micro:bit Accessories:
+    - Octopus Analog Rotation Brick-Blue: Octopus_Analog_Rotation_Brick_Blue.md
     - 2xAA Battery Holder without Cover: 2xAA_Battery_Holder_without_Cover.md
     - 2xAA Battery Holder With ON/OFF Switch and Cover: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
     - Micro:case: Micro_case.md
