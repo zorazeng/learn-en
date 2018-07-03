@@ -8,8 +8,7 @@ Motor:bit is a motor driving board based on micro:bit. It has integrated a TB661
 
 ## Features
 ---
-- Support 2 DC motors. 
-- Max driving current of single channel is 1.2A.
+- Support 2 DC motors and the max driving current of each single channel is 1.2A.
 - Extend 14-channel IO ports and lead out it by GVS pins. Among it, 6 ports support 3V/5V voltage switch. 
 - With 1 passive buzzer on board. 
 

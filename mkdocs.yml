@@ -107,6 +107,8 @@ pages:
           - Case_02 Ultrasonic Obstacle Avoidance: Robit_Case_02.md
           - Case_03 Never Fallen Car: Robit_Case_03.md
           - Case_04 Line Tracking: Robit_Case_04.md
+          - Case_05 Reversing Alarm: Robit_Case_05.md
+    - Edge_bit: edge_bit_EN.md
     - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
 
   - Micro:bit Kits:
@@ -162,7 +164,8 @@ pages:
           - Case_03 Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circle.md
           - Case_04 Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
           
-  - Micro:bitAccessories:
+  - Micro:bit Accessories:
+    - Octopus Analog Rotation Brick-Blue: Octopus_Analog_Rotation_Brick_Blue.md
     - 2xAA Battery Holder without Cover: 2xAA_Battery_Holder_without_Cover.md
     - 2xAA Battery Holder With ON/OFF Switch and Cover: 2xAA_Battery_Holder_With_ON_OFF_Switch_and_Cover.md
     - Micro:case: Micro_case.md
