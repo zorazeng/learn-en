@@ -1,4 +1,4 @@
-![3](https://i.imgur.com/eN8vvty.jpg)
+![](https://i.imgur.com/Me2E8uP.jpg)
 
 ## Introduction  
 ---
