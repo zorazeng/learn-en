@@ -108,6 +108,7 @@ pages:
           - Case_03 Never Fallen Car: Robit_Case_03.md
           - Case_04 Line Tracking: Robit_Case_04.md
           - Case_05 Reversing Alarm: Robit_Case_05.md
+          - Case_06 Rainbow LED: Robit_Case_06.md
           - Case_07 Smart Car Light: Robit_Case_07.md
     - Edge_bit: edge_bit_EN.md
     - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
