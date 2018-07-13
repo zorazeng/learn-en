@@ -95,7 +95,7 @@ How to make the color change swiftly instead of smooth change?
 
 **Q: How to change RGB flash speed?**  
 
-A: Change the change rate of the variable item.  
+A: Renew the change rate of the variable item.  
 
 
 ## Relative Readings   
