@@ -2,5 +2,5 @@
 
 ![](https://i.imgur.com/pSWTsPv.jpg)
 
-[中文WIKI链接](https://www.elecfreaks.com/learn-cn/)
+[中文版WIKI请点我](https://www.elecfreaks.com/learn-cn/)
 
