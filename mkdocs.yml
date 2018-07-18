@@ -115,7 +115,7 @@ pages:
 
   - Micro:bit Kits:
      - micro:bit basic kit:
-          - basic bit Introduction: basic_bit.md
+          - basic bit Introduction: basic_kit.md
      - Micro:bit Starter Kit:
           - micro:bit Starter Kit: Micro_bit_Starter_Kit.md
           - Lesson_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
