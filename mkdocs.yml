@@ -114,6 +114,8 @@ pages:
     - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
 
   - Micro:bit Kits:
+     - micro:bit basic kit:
+          - basic bit: basic_bit.md
      - Micro:bit Starter Kit:
           - Micro:bit Starter Kit: Micro_bit_Starter_Kit.md
           - Lesson_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
