@@ -56,7 +56,10 @@ Rotate trimpot button, then output voltage will change from 0V to 3.3V as with t
 
 Click to openMicrosoft Makecode, write your code in the edit area. We would like to suggest you to write code by yourself first.
 
-Of course, you can see the whole program in the link below. Just click the Edit on the right top corner , and then click Download on the right bottom corner to download code into Micro:bit.
+Of course, you can see the whole program in the link below. Just click the Edit on the right top corner, and then click Download on the right bottom corner to download code into Micro:bit.
+https://makecode.microbit.org/_CY4c95MmmUMR
+
+Or you can download the whole program from the page below.
 
 <div style="position: relative; height: 0; padding-bottom: 70%; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://makecode.microbit.org/#pub:_XFPgfzd0Xi08" width="300" height="150" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
