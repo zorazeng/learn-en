@@ -1,12 +1,19 @@
 ## Introduction
+---
 
 ELECFREAKS Octopus:bit is a kind of breakout boards for micro:bit. It can lead out GPIO port, serial port, IIC port, and SPI port on the micro:bit board. The biggest feature of Octopus:bit is that it can switch electric level for some GPIO ports, which makes micro:bit available to be adapted to 5V sensors.
 
+![](https://i.imgur.com/wcgxnG0.png)
 
-![1](https://www.elecfreaks.com/wp-content/uploads/2018/01/1_EN.png)
+
+## Shipping List
+---
+
+1 x ELECFREAKS Octopus:bit
 
 
 ## Hardware
+---
 
 ### Features
 
@@ -14,8 +21,6 @@ ELECFREAKS Octopus:bit is a kind of breakout boards for micro:bit. It can lead o
 - Extend all of GPIO ports(P0~P16, P19~P20).
 - Beneath each I/O port, there are pins for VCC and GND. These pins are differentiated by different colors, which enable you to connect your extension module easily. The spread of pins is fully compatible with Octopus series' products.  
 - With a voltage boosting module, you can shift the working voltage of P8, P9, P11~P16 between 3.3V and 5V through the voltage switch. 
-- When the voltage switch is at the end of 3.3V, the max current of octopus:bit depends on its power method. When powered by USB port, the output current is 90mA; when powered by PH2.0 battery port, the output current depends on the battery power ability. 
-- When the voltage switch is at the end of 5V, the maximum output current of 5V part is 500mA.
 - Lead out serial port, I2C port and SPI port, among which I2C can connect 3 channels of I2C devices and SPI can connect 2 channels of SPI devices. 
 - Available for direct serial port communication between two breakout boards. 
 
@@ -26,90 +31,107 @@ It is suitable for all conditions that require micro:bit GPIO such as programmin
 
 ### Pins & Connectors
 
-![2](https://www.elecfreaks.com/wp-content/uploads/2018/01/2-2.jpg)
+![](https://i.imgur.com/wCWdoag.jpg)
 
 
-### More Details 
+## More Details
+---
+ 
 #### Standard GVS Port 
 
-![3](https://www.elecfreaks.com/wp-content/uploads/2018/01/3-2.png)
+![](https://i.imgur.com/gk3dN4E.png)
 
 Among the standard GVS ports, the working voltage of the yellow part（P0~P7， P10）is 3.3V, while the working voltage of the blue part（P8, P9, P11~P16）can be shifted between 3.3V and 5V through a voltage switch. 
 Beneath each I/O port, there are pins for VCC and GND. These pins are differentiated by different colors, which enable you to connect your extension module easily. The spread of pins is fully compatible with Octopus series' products.
 
 #### Voltage Switch 
 
-![4](https://www.elecfreaks.com/wp-content/uploads/2018/01/4-1.png)
+![](https://i.imgur.com/JoxT6k2.png)
 
 Sliding this switch, we can change the voltage of the blue IO ports（P8, P9, P11~P16）between 3.3V and 5V.
 
 You can see its working range in the below: 
 
-![5](https://www.elecfreaks.com/wp-content/uploads/2018/01/5-1.png)
+![](https://i.imgur.com/GHPffMl.png)
 
 #### Serial Port
 
-![6](https://www.elecfreaks.com/wp-content/uploads/2018/01/6.png)
+![](https://i.imgur.com/8aVYsja.png)
 
 The working voltage of serial port is available to be shifted between 3.3V and 5V through the voltage switch. 
-Redirect TX to P8，RX to P12. The left pins are bidirectional serial port, which can run both input and output. The right female header is a one-way output serial port. 
-**Note** : To use this port, we have to initialize it according to the program in the below: 
+Connect TX to P8，RX to P12. The left pins are bidirectional serial port, which can run both input and output. The right female header is a one-way output serial port. 
 
-![7](https://www.elecfreaks.com/wp-content/uploads/2018/01/7-1.png)
+**Note** : To use this port, we have to initialize it according to the program in the below:   
 
-
-### Dimension 
-
-![8](https://www.elecfreaks.com/wp-content/uploads/2018/01/8.jpg)
+![](https://i.imgur.com/1gnuYd5.png)  
 
 
-## Software
-### Example 1 Music Broadcast
-#### Hardware Connection 
+## Dimension     
+---  
+
+![](https://i.imgur.com/ZYrWREG.jpg)  
+
+
+## Software  
+---  
+
+### Example 1 Music Broadcast  
+
+#### Hardware Connection   
 Connect passive buzzer module to PO.
 
-![9](https://www.elecfreaks.com/wp-content/uploads/2018/01/9.jpg)
+![](https://i.imgur.com/Zc6ChwR.jpg)
 
-#### Code Example  
+#### Code Example    
 
-![10](https://www.elecfreaks.com/wp-content/uploads/2018/01/10-2.png)
+![](https://i.imgur.com/0MBprkk.png)  
 
-Code Link：[https://makecode.microbit.org/_fAmC3WERHdR2](https://makecode.microbit.org/_fAmC3WERHdR2)
+You can download the whole program from the link here: [https://makecode.microbit.org/_fAmC3WERHdR2](https://makecode.microbit.org/_fAmC3WERHdR2)  
 
-Download the whole program into your micro:bit, the buzzer will play Happy Birthday again and again in round.  
+Download the whole program into your micro:bit, the buzzer will play Happy Birthday again and again in round.    
 
 
-## Relative Cases 
+## Relative Cases  
+---   
 
-[Intruder Detection](https://www.elecfreaks.com/9455.html)  
-[Fish Feeder](https://www.elecfreaks.com/9441.html)  
-[Plant Humidity Monitor](https://www.elecfreaks.com/9363.html)  
-[Burglar Alarm Device](https://www.elecfreaks.com/9572.html)   
-[Motion Detector](https://www.elecfreaks.com/9643.html)   
-[A Smart Light](https://www.elecfreaks.com/10089.html)  
-[Music Machine](https://www.elecfreaks.com/10250.html)   
-[Lie Detector](https://www.elecfreaks.com/10340.html)  
-[Avoide the Asteroids](https://www.elecfreaks.com/10475.html)  
-[Maze Runner](https://www.elecfreaks.com/11887.html)   
-[QUICK MATHS](https://www.elecfreaks.com/12250.html)  
-[Electro-Theremin](https://www.elecfreaks.com/11084.html)  
-[A Micro:bit Car](https://www.elecfreaks.com/11330.html)  
-[Flipping Pancakes](https://www.elecfreaks.com/11784.html)  
-[Micro:bit Game: Pitch Perfect](https://www.elecfreaks.com/12328.html)  
+[Music Machine](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_01_Music_Machine/)  
+[Smart Light ](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_02_Smart_Light/)  
+[Electro-Theremin](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_03_Electro_Theremin/)  
+[Simple Alarm Box](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_04_Simple_Alarm_Box/)  
+[Plant Monitoring Device](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_05_Plant_Monitoring_Device/)  
+[Intruder Detection](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_06_Intruder_Detection/)  
+[Fish Feeder](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_07_Fish_Feeder/)  
+[Motion Detector](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_08_Motion_Detector/)  
+[Lie Detector](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_09_Lie_Detector/)  
+[PADDLEBALLSUPERSMASHEM](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_10_PADDLEBALLSUPERSMASHEM/)  
+[Avoid Asteroids](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_11_Avoid_Asteroids/)  
+[Remote Control Everything ](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_12_Remote_Control_Everything/)  
+[micro:bit Car](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_13_Micro_bit_Car/)  
+[Flipping Pancakes](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_14_Flipping_Pancakes/)  
+[Maze Runner](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_15_Maze_Runner/)  
+[QUICK MATHS](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_16_QUICK_MATHS/)  
+[Pitch Perfect](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_17_Pitch_Perfect/)  
+[Finger Dexterity](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_18_Finger_Dexterity/)  
+[Electric Spirit Level](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_19_Electric_Spirit_Level/)   
+[Space Shooter](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_20_Space_Shooter/)  
+[Flappy Bird](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_21_Flappy_Bird/)  
+[Wire Transmission](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_22_Wire_Transmission/)  
+[Snake Game](https://www.elecfreaks.com/learn-en/Micro_bit_Tinker_Kit_Case_23_Snake_Game/)   
 
 
 ## Relative Components
+---
 
 
 ### [BBC micro:bit](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
 
-[![13](https://www.elecfreaks.com/wp-content/uploads/2018/01/13.png)](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
+[![](https://i.imgur.com/nKomLk2.png)](http://www.elecfreaks.com/estore/bbc-micro-bit-board-for-coding-programming.html)
 
 
 ### [Octopus Bricks Series](http://www.elecfreaks.com/estore/octopus-bricks-sensor)
 
-[![14](https://www.elecfreaks.com/wp-content/uploads/2018/01/14.png)](http://www.elecfreaks.com/estore/octopus-bricks-sensor)
+[![](https://i.imgur.com/m1Xdqvg.png)](http://www.elecfreaks.com/estore/octopus-bricks-sensor)
 
-#### [ElecFreaks Micro:bit Tinker Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-tinker-kit.html)
+### [ElecFreaks Micro:bit Tinker Kit](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-tinker-kit.html)
 
-[![15](https://www.elecfreaks.com/wp-content/uploads/2018/01/15.jpg)](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-tinker-kit.html)
+[![](https://i.imgur.com/pkfhaWF.jpg)](http://www.elecfreaks.com/estore/elecfreaks-micro-bit-tinker-kit.html)
