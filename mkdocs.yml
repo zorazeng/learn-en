@@ -114,8 +114,11 @@ pages:
     - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
 
   - Micro:bit Kits:
+     - micro:bit Watch Kit:
+          - Watch Kit Introduction: Watch_Kit.md
      - micro:bit basic kit:
-          - basic bit Introduction: basic_kit.md
+          - basic bit Introduction: Basic_Kit.md
+          - basic:bit: Basic_bit.md
      - Micro:bit Starter Kit:
           - micro:bit Starter Kit: Micro_bit_Starter_Kit.md
           - Lesson_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
@@ -167,6 +170,8 @@ pages:
           - Case_02 S Walk: Ring_bit_Car_Kit_Case_02_S_Walk.md
           - Case_03 Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circle.md
           - Case_04 Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
+     - Motor:bit Smart Car Kit: 
+          - Motor:bit Smart Car Kit: Motor_bit_Smart_Car.md
           
   - Micro:bit Accessories:
     - Octopus Analog Rotation Brick-Blue: Octopus_Analog_Rotation_Brick_Blue.md
