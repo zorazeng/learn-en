@@ -1,6 +1,6 @@
 ## Our Goal
 ---
-- Use motor:bit smart car kit to realize fixed parking function.
+- Make motor:bit smart car realize fixed parking function.
 
 
 ## Material
