@@ -116,6 +116,11 @@ pages:
   - Micro:bit Kits:
      - micro:bit Watch Kit:
           - Watch Kit Introduction: Watch_Kit.md
+           -Case 01：Compass: watch_kit_case_01.md
+          - Case 02：Dice: watch_kit_case_02.md
+          - Case 03：Thermometer: watch_kit_case_03.md
+          - Case 04：Timer: watch_kit_case_04.md
+          - Case 05：Flashlight: watch_kit_case_05.md
      - micro:bit basic kit:
           - basic bit Introduction: Basic_Kit.md
           - basic:bit: Basic_bit.md
