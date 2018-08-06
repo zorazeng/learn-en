@@ -177,6 +177,8 @@ pages:
           - Case_04 Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
      - Motor:bit Smart Car Kit: 
           - Motor:bit Smart Car Kit: Motor_bit_Smart_Car.md
+          - Case 01 Fixed Parking: motor_bit_smart_car_case_01.md
+          - Case 02 Keep Distance: motor_bit_smart_car_case_02.md
           
   - Micro:bit Accessories:
     - Octopus Analog Rotation Brick-Blue: Octopus_Analog_Rotation_Brick_Blue.md
