@@ -85,7 +85,7 @@ Please open Microsoft Makecode, write your code in the edit area. I would like t
 
 Of course, you can download the whole program from the link below.  
 
-[https://makecode.microbit.org/_Kid26LToz2mU](https://makecode.microbit.org/_Kid26LToz2mU)  
+Link of the whole program: https://makecode.microbit.org/_Kid26LToz2mU  
 
 
 ## Code Explain    
