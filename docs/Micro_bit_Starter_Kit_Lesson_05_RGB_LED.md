@@ -61,6 +61,8 @@ Of course, if you want to see the whole program directly, you can click the link
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_7PJd01g8pc8i" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
+Link of the whole program: [https://makecode.microbit.org/_dMgdWubkTVaM](https://makecode.microbit.org/_dMgdWubkTVaM)
+
 
 ## Code Explain        
 ---  
