@@ -64,6 +64,8 @@ Of course, you can see the whole code directly in the link below. Just click “
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Yd7X6x1dKfgv" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
 
+Link of the whole program: https://makecode.microbit.org/_Yd7X6x1dKfgv 
+
 
 ## Code Explanation  
 ---
