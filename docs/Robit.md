@@ -179,7 +179,7 @@ We can see our robit car moves forward for 3 seconds, and then backward 3 second
 ## Document  
 ---
 
-[WIKI](https://github.com/elecfreaks/learn-cn)
+[WIKI](https://github.com/elecfreaks/learn-n)
 
 
 ## FAQ
