@@ -24,7 +24,7 @@ Size of Finished Product|146mm x 124mm x 71mm
 
 ## Dimension  
 ---
-![](https://i.imgur.com/hCjLYAH.jpg)  
+![](https://i.imgur.com/vehvUKJ.jpg)
 
 
 ## Packing List  
@@ -46,7 +46,7 @@ Size of Finished Product|146mm x 124mm x 71mm
 ### Finished Product  
 ![](https://i.imgur.com/hd42esf.png)  
 
-![](https://i.imgur.com/vPsM3oe.jpg)  
+![](https://i.imgur.com/AuBmsFz.jpg)
 
 
 ## Documents  
