@@ -121,9 +121,14 @@ pages:
           - Case 03：Thermometer: watch_kit_case_03.md
           - Case 04：Timer: watch_kit_case_04.md
           - Case 05：Flashlight: watch_kit_case_05.md
+          
      - micro:bit basic kit:
           - basic bit Introduction: basic_kit.md
           - basic:bit: basic_bit.md
+          - Case 01：Light Controller: basic_kit_case_01.md
+          - Case 02：Morse Code: basic_kit_case_02.md
+          - Case 03：Function Selector: basic_kit_case_03.md
+          
      - Micro:bit Starter Kit:
           - micro:bit Starter Kit: starter_kit.md
           - Lesson_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
@@ -140,6 +145,7 @@ pages:
           - Lesson_12 Accelerometer: Micro_bit_Starter_Kit_Lesson_12_Accelerometer.md
           - Lesson_13 Compass: Micro_bit_Starter_Kit_Lesson_13_Compass.md
           - Lesson_14 Ambient Light: Micro_bit_Starter_Kit_Lesson_14_Ambient_Light.md
+          
      - Micro:bit Tinker Kit: 
           - Micro:bit Tinker Kit: Micro_bit_Tinker_Kit.md
           - Music Machine: Micro_bit_Tinker_Kit_Case_01_Music_Machine.md
