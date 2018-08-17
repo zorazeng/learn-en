@@ -13,7 +13,7 @@
 ### Principle of Line Tracking
 
 - The line tracking module in this kit has adopted an infrared sensor. It consists of a **transmitter** and a **receiver**. The transmitter emits infrared light, while the receiver collects the infrared light reflected by the ground. 
-- When contacting with black ground or other infrared light absorbing materials, the receiver can't receive the infrared light, then the light tracking module returns to 1. 
+- When contacting with black ground or other infrared light absorbing materials, the receiver can't receive the infrared light, then the light tracking module returns to 0. 
 
 ![](https://i.imgur.com/UdHpeaS.jpg)
 
