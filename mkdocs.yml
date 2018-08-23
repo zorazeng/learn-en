@@ -91,7 +91,10 @@ markdown_extensions:
 # Page tree
 pages:
   - ElecFreaks Learn: 'index.md'
-
+  
+  - Micro:bit Basic Tutorial:
+    - Micro:bit Technology Blog:
+        - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
   - Micro:bit Modules:
     - BBC Micro:bit Board: Micro_bit_Board.md
     - Micro:bit Breadboard Adapter: Micro_bit_Breadboard_Adapter.md
