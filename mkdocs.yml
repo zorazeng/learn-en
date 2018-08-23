@@ -192,6 +192,7 @@ pages:
           - Case 03 Line Tracking: motor_bit_smart_car_case_03.md
           - Case 04 Avoid Barrier: motor_bit_smart_car_case_04.md
           - Case 05 Remote Control: motor_bit_smart_car_case_05.md
+          - Case 06 Bluetooth Control: motor_bit_smart_car_case_06.md
           
   - Micro:bit Accessories:
     - Octopus Analog Rotation Brick-Blue: Octopus_Analog_Rotation_Brick_Blue.md
