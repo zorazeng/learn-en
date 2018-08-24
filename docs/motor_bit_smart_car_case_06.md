@@ -35,11 +35,11 @@ Picture below is an event table for D-pad controlling joystick.
 
 1. Android Device: Download bitty controller app from Google play.
 
-![](https://i.imgur.com/G5QfQbn.jpg)
+![](https://i.imgur.com/moQ7aYu.jpg)
 
 2. IOS Device: Download bitty controller app from APP store.
 
-![](https://i.imgur.com/TMzv3zK.png)
+![](https://i.imgur.com/LqEfbhE.png)
 
 -  Below is the interface of this APP:
 
@@ -68,9 +68,8 @@ Click **Advanced** in the code drawer of MakeCode to see more options.
 
 To program for Bluetooth and motor:bit, we have to add two packages. Find **Add Package** in the bottom of code drawer and click it. This will pop up a dialogue box. Search for "Bluetooth" and "motorbit" and then click to download these packages.
 
-![](https://i.imgur.com/ZNxv964.png)
-
-![](https://i.imgur.com/XDlSfIS.png)
+![](https://i.imgur.com/4eJ7Jgx.png)
+![](https://i.imgur.com/LTJUxsR.png)
 
 Note: If you get a hint that some packages will be deleted due to the problem of incompatibility, you can either follow the prompts, or create a new project in the project menu.
 
