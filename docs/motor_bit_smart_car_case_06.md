@@ -93,13 +93,13 @@ If the event value is `MES_DPAD_BUTTON_A_UP`, we know from the event table above
 
 Create a variable and name is `flag`, which stands for the car movement status. When `flage` is 1, it means the car is moving forward. 
 
-If the event value is `MES_DPAD_BUTTON_3_DOWN`, we can known from the table above that the left square button in the right side is pressed. Thus, set the left motor to a negative value and the right motor to a positive value, which makes the car turn left. 
+If the event value is `MES_DPAD_BUTTON_3_DOWN`, we can known from the table above that the right square button is pressed. Thus, the car will turn right. 
 
-If the event value is `MES_DPAD_BUTTON_4_DOWN` when `flag` is 1, we can know from the table above that the right square button in the right side is pressed. Thus, set the right motor to a negative value and the left motor to a positive value, which makes the car turn right. 
+If the event value is `MES_DPAD_BUTTON_4_DOWN` when `flag` is 1, we can know from the table above that the left square button is pressed. Thus, the car will turn left. 
 
 If none of the above two situations happened when `flag` is 1, then set the speed of both motors to 100 and the car will move forward at its full speed.  
 
-![](https://i.imgur.com/xhaU3hc.png)
+![](https://i.imgur.com/cvXAfCv.png)
 
 ### Step 5: Bluetooth Connection 
 
@@ -117,11 +117,11 @@ Enjoy yourself!
 
 ### Program
 
-Link of the whole program: [https://makecode.microbit.org/_2baXF8MeMKmf](https://makecode.microbit.org/_2baXF8MeMKmf)
+Link of the whole program: [https://makecode.microbit.org/_V4YJ2i9LkYoi](https://makecode.microbit.org/_V4YJ2i9LkYoi)
 
 You can also download it from the page below.
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_2baXF8MeMKmf" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_V4YJ2i9LkYoi" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 **Note:** Low motor speed will affect its rotation. 
 

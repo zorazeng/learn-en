@@ -1,5 +1,6 @@
 # How to Use Bluetooth (IOS System)
 
+![](https://i.imgur.com/qFY5fIV.png)
 
 ## Our Goal
 ---
