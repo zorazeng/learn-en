@@ -93,40 +93,40 @@ pages:
   - ElecFreaks Learn: 'index.md'
   - Micro:bit Basic Tutorial:
   - Micro:bit Funny Classroom Series:
-        - Flashing Heart: flashing_heart.md
-        - Smiley Buttons: smiley_buttons.md
-        - Love Meter: love_meter.md
-        - Rock Papaer Scissors: rock_papaer_scissors.md
-        - Magic Button Trick: magic_button_trick.md
-        - Coin Flipper: coin_flipper.md
-        - Salute: salute.md
-        - Hack your headphones: hack_your_headphones.md
-        - Banana Keyboard: banana_keyboard.md
-        - Guitar: guitar.md
-        - Duct Type Wallet: duct_type_wallet.md
-        - Watch: watch.md
-        - Countdown Timer: countdown_timer.md
-        - Digital Watch: digital_watch.md
-        - Soil Moisture: soil_moisture.md
-        - Plant Watering: plant_watering.md
-        - Reaction Time: reaction_time.md
-        - States of Matter: states_of_matter.md
-        - Mood Radio: mood_radio.md
-        - Tele-Potato: tele_potato.md
-        - Hot or Cold: hot_or_cold.md
-        - Voting Machine: voting_machine.md
-        - Infection: infection.md
-        - Fireflies: fireflies.md
-        - Rock Paper Scissors Teams: rock_paper_scissors_teams.md
-        - Microcoin: microcoin.md
-        - Inchworm: inchworm.md
-        - Milk Monster: milk_monster.md
-        - RC Car: RC_Car.md
-        - Timing Gates: timing_gates.md
-        - Compass: compass.md
-        - Telegraph: telegraph.md
-        - Railway Crossing: railway_crossing.md
-        - Karel: karel.md
+        - Flashing Heart: classroom_01.md
+        - Smiley Buttons: classroom_02.md
+        - Love Meter: classroom_03.md
+        - Rock Papaer Scissors: classroom_04.md
+        - Magic Button Trick: classroom_05.md
+        - Coin Flipper: classroom_06.md
+        - Salute: classroom_07.md
+        - Hack your headphones: classroom_08.md
+        - Banana Keyboard: classroom_09.md
+        - Guitar: classroom_10.md
+        - Duct Type Wallet: classroom_11.md
+        - Watch: classroom_12.md
+        - Countdown Timer: classroom_13.md
+        - Digital Watch: classroom_14.md
+        - Soil Moisture: classroom_15.md
+        - Plant Watering: classroom_16.md
+        - Reaction Time: classroom_17.md
+        - States of Matter: classroom_18.md
+        - Mood Radio: classroom_19.md
+        - Tele-Potato: classroom_20.md
+        - Hot or Cold: classroom_21.md
+        - Voting Machine: classroom_22.md
+        - Infection: classroom_23.md
+        - Fireflies: classroom_24.md
+        - Rock Paper Scissors Teams: classroom_25.md
+        - Microcoin: classroom_26.md
+        - Inchworm: classroom_27.md
+        - Milk Monster: classroom_28.md
+        - RC Car: classroom_29.md
+        - Timing Gates: classroom_30.md
+        - Compass: classroom_31.md
+        - Telegraph: classroom_32.md
+        - Railway Crossing: classroom_33.md
+        - Karel: classroom_34.md
         
   - Micro:bit Technology Blog:
         - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
