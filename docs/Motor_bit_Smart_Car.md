@@ -3,14 +3,14 @@
 motor:bit smart car kit is a tailor-made smart car for micro:bit and motor:bit. This kit includes a micro:bit, motor:bit, sonar:bit and 2 line tracking modules. You can use this kit to DIY a micro:bit two-wheel smart car.
 
 
-## Features   
----  
+## Features  
+---
 - Small size with compact structure.  
 - Reserve sensor connectors.  
 
 
-## Parameters  
----  
+## Parameters
+---
 Item |Parameter
 :-:|:-:
 Motor Type|TT Motor
@@ -19,7 +19,7 @@ Power Supply|4 AA Batteries
 Support Line Tracking|Yes
 Support Ultrasonic Module|Yes
 Net Weight|246g
-Size of Finished Product|146mm x 124mm x 71mm  
+Size of Finished Product|146mm x 124mm x 71mm
 
 
 ## Dimension  
@@ -29,11 +29,11 @@ Size of Finished Product|146mm x 124mm x 71mm
 
 ## Packing List  
 ---
-- 1 x motor:bit
-- 1 x Acrylic Smart Car Chassis Kit（include TT motor）
-- 1 x Line Tracking Module
-- 1 x Sonar:bit
-- 1 x micro:bit
+- 1 x motor:bit  
+- 1 x Acrylic Smart Car Chassis Kit（include TT motor）  
+- 1 x Line Tracking Module  
+- 1 x Sonar:bit  
+- 1 x micro:bit  
 
 
 ## Drawings  
@@ -41,10 +41,10 @@ Size of Finished Product|146mm x 124mm x 71mm
 ### Components  
 
 ### Assembly Overview  
-![](https://i.imgur.com/yeShOQZ.jpg)  
+![](https://i.imgur.com/yeShOQZ.jpg)
 
 ### Finished Product  
-![](https://i.imgur.com/hd42esf.png)  
+![](https://i.imgur.com/jfltEih.jpg)
 
 ![](https://i.imgur.com/AuBmsFz.jpg)
 
@@ -53,5 +53,5 @@ Size of Finished Product|146mm x 124mm x 71mm
 ---
 
 
-## FAQ
+## FAQ  
 ---

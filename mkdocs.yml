@@ -91,7 +91,9 @@ markdown_extensions:
 # Page tree
 pages:
   - ElecFreaks Learn: 'index.md'
+  
   - Micro:bit Basic Tutorial:
+
   - Micro:bit Funny Classroom Series:
         - Flashing Heart: classroom_01.md
         - Smiley Buttons: classroom_02.md
@@ -154,7 +156,7 @@ pages:
   - Micro:bit Kits:
      - micro:bit Watch Kit:
           - Watch Kit Introduction: watch_kit.md
-           -Case 01：Compass: watch_kit_case_01.md
+          - Case 01：Compass: watch_kit_case_01.md
           - Case 02：Dice: watch_kit_case_02.md
           - Case 03：Thermometer: watch_kit_case_03.md
           - Case 04：Timer: watch_kit_case_04.md
@@ -168,7 +170,7 @@ pages:
           - Case 03：Function Selector: basic_kit_case_03.md
           
      - Micro:bit Starter Kit:
-          - micro:bit Starter Kit: Micro_bit_Starter_Kit.md
+          - micro:bit Starter Kit: starter_kit.md
           - Lesson_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
           - Lesson_02 Button: Micro_bit_Starter_Kit_Lesson_02_Button.md
           - Lesson_03 Trimpot: Micro_bit_Starter_Kit_Lesson_03_Trimpot.md
