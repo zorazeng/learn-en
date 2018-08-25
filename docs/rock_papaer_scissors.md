@@ -12,7 +12,7 @@ Duration: ~20 minutes.
 
 ### Activities
 
-#### 设置
+#### Setting
 
 ##### Step 1 - Cut the pieces of tape
 
@@ -40,7 +40,7 @@ Decorate the wrist cuff with stickers, glitter, markers, etc.
 
 ![](https://i.imgur.com/NmTjyry.png)
 
-#### 代码
+#### Code
 
 ##### Step 1
 
