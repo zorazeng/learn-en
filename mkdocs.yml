@@ -93,8 +93,45 @@ pages:
   - ElecFreaks Learn: 'index.md'
   
   - Micro:bit Basic Tutorial:
+    - BBC micro:bit: Micro_bit_Board.md
+    - Micro:bit Funny Classroom Series:
+        - Flashing Heart: classroom_01.md
+        - Smiley Buttons: classroom_02.md
+        - Love Meter: classroom_03.md
+        - Rock Papaer Scissors: classroom_04.md
+        - Magic Button Trick: classroom_05.md
+        - Coin Flipper: classroom_06.md
+        - Salute: classroom_07.md
+        - Hack your headphones: classroom_08.md
+        - Banana Keyboard: classroom_09.md
+        - Guitar: classroom_10.md
+        - Duct Type Wallet: classroom_11.md
+        - Watch: classroom_12.md
+        - Countdown Timer: classroom_13.md
+        - Digital Watch: classroom_14.md
+        - Soil Moisture: classroom_15.md
+        - Plant Watering: classroom_16.md
+        - Reaction Time: classroom_17.md
+        - States of Matter: classroom_18.md
+        - Mood Radio: classroom_19.md
+        - Tele-Potato: classroom_20.md
+        - Hot or Cold: classroom_21.md
+        - Voting Machine: classroom_22.md
+        - Infection: classroom_23.md
+        - Fireflies: classroom_24.md
+        - Rock Paper Scissors Teams: classroom_25.md
+        - Microcoin: classroom_26.md
+        - Inchworm: classroom_27.md
+        - Milk Monster: classroom_28.md
+        - RC Car: classroom_29.md
+        - Timing Gates: classroom_30.md
+        - Compass: classroom_31.md
+        - Telegraph: classroom_32.md
+        - Railway Crossing: classroom_33.md
+        - Karel: classroom_34.md
     - Micro:bit Technology Blog:
         - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
+        
   - Micro:bit Modules:
     - BBC Micro:bit Board: Micro_bit_Board.md
     - Micro:bit Breadboard Adapter: Micro_bit_Breadboard_Adapter.md
