@@ -1,4 +1,3 @@
-# Joystick_bit.md
 ## Joystick User Guide
 
 ## Introduction 
