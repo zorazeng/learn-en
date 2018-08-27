@@ -1,19 +1,19 @@
 # Joystick_bit.md
-##Joystick User Guide
+## Joystick User Guide
 
-##Introduction 
+## Introduction 
 
 Joystick:bit is a game joystick based on Micro:bit. On the board, it has integrated a joystick and 6 undefined keys. It is very convenient for users to extend different communication modules because it has extended connectors like GVS, IIC, SPI, UART. Besides, it has built-in power switch and outer power connector. It is very good to use.
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/2-2.png)
 
 
-##Shipping List:
+## Shipping List:
 
 1 x [Joystick:bit](http://www.elecfreaks.com/estore/elecfreaks-joystick-bit-for-micro-bit.html)
 
 
-##Features:
+## Features:
 
 Develop Environment: Code Kingdoms Java script, Microsoft Blocks，Microsoft Touch Develop, Python.
 Support UART serial port.
@@ -27,7 +27,7 @@ Size: 103.00mm X 64.00mm
 Weight: 54 g
 
 
-##Application:
+## Application:
 
 Support Bluetooth 4.0 device（based on micro:bit）
 Support GVS connector, compatible with modules of ElecFreaks Octopus electric brick series.
@@ -35,14 +35,14 @@ Remote control smart cars, balance cars.
 Users can use it to develop remote control robotics, robotic arms, etc..
 
 
-##Definition of Pins:
+## Definition of Pins:
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/3-2.png)
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/4-1.png)
 
 
-###More Details about Some Pin Connectors:
+### More Details about Some Pin Connectors:
 
 1.G / V(3.3V) / P3 / P4 / P6 are connectors for GVS electric bricks. Among it, P3 / P4 are connectors for analog / PWM / digital connectors, which can help you connect servos and various sensors conveniently.
 
@@ -64,12 +64,12 @@ Users can use it to develop remote control robotics, robotic arms, etc..
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/8.png)
 
 
-##Dimensions：
+## Dimensions：
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/9.png)
 
 
-##Software： 
+## Software： 
 Code Example:
 
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/10.png)
@@ -98,7 +98,7 @@ Push joystick to the left along "X" axle, OLED displays "+X".
 Push joystick to the right along "X" axle, OLED displays"-X".
 
 
-##Relative Accessories:
+## Relative Accessories:
 
 [IIC OLED Module](http://www.elecfreaks.com/estore/iic-oled.html)
 
@@ -109,6 +109,6 @@ Push joystick to the right along "X" axle, OLED displays"-X".
 ![](https://www.elecfreaks.com/wp-content/uploads/2018/04/13.png)
 
 
-##More Information
+## More Information
 
 For more details, please log on: [http://www.elecfreaks.com](http://www.elecfreaks.com) .
