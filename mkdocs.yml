@@ -233,6 +233,8 @@ pages:
           
   - Micro:bit Accessories:
     - Octopus Analog Rotation Brick-Blue: Octopus_Analog_Rotation_Brick_Blue.md
+    - 3V Relay Module: octopus_1_channel_relay_3v_relay_module.md
+    - BME280 Air Pressure Sensor: octopus_bme280_pressure_sensor.md
     - Sonar:bit: sonar_bit.md
     - Octopus 2 Channel Tracking Module: Tracking_Module.md
     - 2xAA Battery Holder without Cover: 2xAA_Battery_Holder_without_Cover.md
