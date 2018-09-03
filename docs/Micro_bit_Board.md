@@ -11,7 +11,7 @@ From dancing robots to banana keyboards, your micro:bit has all the features you
 
 Your micro:bit has the following physical features:
 
->- 25 individually-programmable LEDs
+- 25 individually-programmable LEDs
 - 2 programmable buttons
 - Physical connection pins
 - Light and temperature sensors
