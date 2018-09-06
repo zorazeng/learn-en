@@ -134,7 +134,7 @@ pages:
         
   - Micro:bit Modules:
     - BBC Micro:bit Board: Micro_bit_Board.md
-    - Micro:bit Breadboard Adapter: Micro_bit_Breadboard_Adapter.md
+    - Micro:bit Breadboard Adapter: Breadboard_bit.md
     - Octopus:bit: Octopus_bit.md
     - Sensor:bit: Sensor_bit.md
     - Motor:bit: Motor_bit_V16.md
