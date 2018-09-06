@@ -23,11 +23,10 @@ Basic:kit Manual Book|1
 
 ## Documents
 ---
-Case 01  
-Case 02  
-Case 03  
-Case 04  
-Case 05  
+- [basic:bit introduce](/basic_bit/)
+- [Case 01](/basic_kit_case_01/)  
+- [Case 03](/basic_kit_case_02/)  
+- [Case 04](/basic_kit_case_03/)  
 
 
 ## FAQ
