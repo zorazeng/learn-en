@@ -1,4 +1,4 @@
-## micro:bit starter kit introduction
+## micro:bit Starter Kit Introduction
 
 ELECFREAKS micro:bit Starter Kit is tailor-designed for micro:bit experiment and programming  beginners.
 
