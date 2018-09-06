@@ -44,11 +44,12 @@ Net Weight|50g
 
 ## Documents
 ---
-- Case 01
-- Case 02
-- Case 03
-- Case 04
-- Case 05
+- [Power_bit Introduction](/power_bit/)
+- [Case 01](/watch_kit_case_01/)
+- [Case 02](/watch_kit_case_02/)
+- [Case 03](/watch_kit_case_03/)
+- [Case 04](/watch_kit_case_04/)
+- [Case 05](/watch_kit_case_05/)
 
 
 ## FAQ
