@@ -140,7 +140,6 @@ pages:
     - Motor:bit: Motor_bit_V16.md
     - Power:bit: Power_bit.md
     - Ring:bit: Ring_bit.md
-    - Basic:bit: Basic_bit.md
     - Robit: 
           - Robit_Introduction: Robit.md
           - Case_01 Ultrasonic Distance Measurement: Robit_Case_01.md
