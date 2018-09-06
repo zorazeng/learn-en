@@ -169,7 +169,7 @@ pages:
           
      - Micro:bit Starter Kit:
           - micro:bit Starter Kit: starter_kit.md
-          - Breadboard:bit Introduction: Breadboard_bit.md.md
+          - Breadboard:bit Introduction: Breadboard_bit.md
           - Lesson_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
           - Lesson_02 Button: Micro_bit_Starter_Kit_Lesson_02_Button.md
           - Lesson_03 Trimpot: Micro_bit_Starter_Kit_Lesson_03_Trimpot.md
