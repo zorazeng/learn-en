@@ -134,7 +134,6 @@ pages:
         
   - Micro:bit Modules:
     - BBC Micro:bit Board: Micro_bit_Board.md
-    - Micro:bit Breadboard Adapter: Breadboard_bit.md
     - Octopus:bit: Octopus_bit.md
     - Sensor:bit: Sensor_bit.md
     - Motor:bit: Motor_bit_V16.md
@@ -163,13 +162,14 @@ pages:
           
      - micro:bit basic kit:
           - Basic Kit Introduction: basic_kit.md
-          - Basic:bit: basic_bit.md
+          - Basic:bit Introduction: basic_bit.md
           - Case 01：Light Controller: basic_kit_case_01.md
           - Case 02：Morse Code: basic_kit_case_02.md
           - Case 03：Function Selector: basic_kit_case_03.md
           
      - Micro:bit Starter Kit:
           - micro:bit Starter Kit: starter_kit.md
+          - Breadboard:bit Introduction: Breadboard_bit.md.md
           - Lesson_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
           - Lesson_02 Button: Micro_bit_Starter_Kit_Lesson_02_Button.md
           - Lesson_03 Trimpot: Micro_bit_Starter_Kit_Lesson_03_Trimpot.md
