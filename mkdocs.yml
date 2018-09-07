@@ -169,20 +169,20 @@ pages:
      - Micro:bit Starter Kit:
           - micro:bit Starter Kit: starter_kit.md
           - Breadboard:bit Introduction: breadboard_bit.md
-          - Lesson_01 LED: Micro_bit_Starter_Kit_Lesson_01_LED.md
-          - Lesson_02 Button: Micro_bit_Starter_Kit_Lesson_02_Button.md
-          - Lesson_03 Trimpot: Micro_bit_Starter_Kit_Lesson_03_Trimpot.md
-          - Lesson_04 Photocell: Micro_bit_Starter_Kit_Lesson_04_Photocell.md
-          - Lesson_05 RGB LED: Micro_bit_Starter_Kit_Lesson_05_RGB_LED.md
-          - Lesson_06 Self-lock Switch: Micro_bit_Starter_Kit_Lesson_06_Self_lock_Switch.md
-          - Lesson_07 Temperature Sensor: Micro_bit_Starter_Kit_Lesson_07_Temperature_Sensor.md
-          - Lesson_08 Servo: Micro_bit_Starter_Kit_Lesson_08_Servo.md
-          - Lesson_09 Buzzer: Micro_bit_Starter_Kit_Lesson_09_Buzzer.md
-          - Lesson_10 Motor: Micro_bit_Starter_Kit_Lesson_10_Motor.md
-          - Lesson_11 Rainbow LED: Micro_bit_Starter_Kit_Lesson_11_Rainbow_LED.md
-          - Lesson_12 Accelerometer: Micro_bit_Starter_Kit_Lesson_12_Accelerometer.md
-          - Lesson_13 Compass: Micro_bit_Starter_Kit_Lesson_13_Compass.md
-          - Lesson_14 Ambient Light: Micro_bit_Starter_Kit_Lesson_14_Ambient_Light.md
+          - Lesson_01 LED: starter_kit_case_01.md
+          - Lesson_02 Button: starter_kit_case_02.md
+          - Lesson_03 Trimpot: starter_kit_case_03.md
+          - Lesson_04 Photocell: starter_kit_case_04.md
+          - Lesson_05 RGB LED: starter_kit_case_05.md
+          - Lesson_06 Self-lock Switch: starter_kit_case_06.md
+          - Lesson_07 Temperature Sensor: starter_kit_case_07.md
+          - Lesson_08 Servo: starter_kit_case_08.md
+          - Lesson_09 Buzzer: starter_kit_case_09.md
+          - Lesson_10 Motor: starter_kit_case_10.md
+          - Lesson_11 Rainbow LED: starter_kit_case_11.md
+          - Lesson_12 Accelerometer: starter_kit_case_12.md
+          - Lesson_13 Compass: starter_kit_case_13.md
+          - Lesson_14 Ambient Light: starter_kit_case_14.md
           
      - Micro:bit Tinker Kit: 
           - Micro:bit Tinker Kit: tinker_kit.md
