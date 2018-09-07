@@ -220,7 +220,7 @@ pages:
           - Case_04 Wireless Remote Control: ring_bit_car_case_04.md
           
      - Motor:bit Smart Car Kit: 
-          - Motor:bit Smart Car Kit: Motor_bit_Smart_Car.md
+          - Motor:bit Smart Car Kit: motor_bit_smart_car.md
           - Case 01 Fixed Parking: motor_bit_smart_car_case_01.md
           - Case 02 Keep Distance: motor_bit_smart_car_case_02.md
           - Case 03 Line Tracking: motor_bit_smart_car_case_03.md
