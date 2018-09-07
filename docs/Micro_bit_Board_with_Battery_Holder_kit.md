@@ -1,1 +1,0 @@
-# Micro_bit_Board_with_Battery_Holder_kit
