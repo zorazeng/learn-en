@@ -136,7 +136,7 @@ pages:
 
   - Micro:bit Kits:
      - micro:bit Watch Kit:
-          - Watch Kit Introduction: watch_kit.md
+          - Introduction: watch_kit.md
           - Power:bit Introduction: power_bit.md
           - Case 01：Compass: watch_kit_case_01.md
           - Case 02：Dice: watch_kit_case_02.md
@@ -145,14 +145,14 @@ pages:
           - Case 05：Flashlight: watch_kit_case_05.md
           
      - micro:bit basic kit:
-          - Basic Kit Introduction: basic_kit.md
+          - Introduction: basic_kit.md
           - Basic:bit Introduction: basic_bit.md
           - Case_01 Light Controller: basic_kit_case_01.md
           - Case_02 Morse Code: basic_kit_case_02.md
           - Case_03 Function Selector: basic_kit_case_03.md
           
      - Micro:bit Starter Kit:
-          - micro:bit Starter Kit: starter_kit.md
+          - Introduction: starter_kit.md
           - Breadboard:bit Introduction: breadboard_bit.md
           - Lesson_01 LED: starter_kit_case_01.md
           - Lesson_02 Button: starter_kit_case_02.md
@@ -170,7 +170,7 @@ pages:
           - Lesson_14 Ambient Light: starter_kit_case_14.md
           
      - Micro:bit Tinker Kit: 
-          - Micro:bit Tinker Kit: tinker_kit.md
+          - Introduction: tinker_kit.md
           - Octopus:bit Introduction: octopus_bit.md
           - Case_01 Music Machine: tinker_kit_case_01.md
           - Case_02 Smart Light: tinker_kit_case_02.md
@@ -197,7 +197,7 @@ pages:
           - Case_23 Snake Game: tinker_kit_case_23.md
           
      - Ring:bit Car Kit: 
-          - Ring:bit Car Kit: ring_bit_car.md
+          - Introduction: ring_bit_car.md
           - Ring:bit Introduction: ring_bit.md
           - Case_01 Add Package: ring_bit_car_case_01.md
           - Case_02 S Walk: ring_bit_car_case_02.md
@@ -205,7 +205,7 @@ pages:
           - Case_04 Wireless Remote Control: ring_bit_car_case_04.md
           
      - Motor:bit Smart Car Kit: 
-          - Motor:bit Smart Car Kit: motor_bit_smart_car.md
+          - Introduction: motor_bit_smart_car.md
           - Motor:bit Introduction: motor_bit_v16.md
           - Case 01 Fixed Parking: motor_bit_smart_car_case_01.md
           - Case 02 Keep Distance: motor_bit_smart_car_case_02.md
@@ -216,8 +216,9 @@ pages:
           
   - Micro:bit Modules and Sensor:
     - Sensor:bit: sensor_bit.md
+    - Motor:bit V14: motor_bit_v14.md
     - Robit: 
-          - Robit_Introduction: robit.md
+          - Introduction: robit.md
           - Case_01 Ultrasonic Distance Measurement: robit_case_01.md
           - Case_02 Ultrasonic Obstacle Avoidance: robit_case_02.md
           - Case_03 Never Fallen Car: robit_case_03.md
@@ -227,12 +228,12 @@ pages:
           - Case_07 Smart Car Light: robit_case_07.md
     - Edge:bit: edge_bit.md
     - Joystick:bit: joystick_bit.md
-    - Micro:bit Power Supply: microbit_power_supply.md
+    - Power Supply: microbit_power_supply.md
     - Sonar:bit: sonar_bit.md
-    - Octopus Analog Rotation Brick-Blue: octopus_ef04085.md
+    - Analog Rotation Brick: octopus_ef04085.md
     - 3V Relay Module: octopus_ef04086.md
     - BME280 Air Pressure Sensor: octopus_ef04087.md
-    - Octopus 2 Channel Tracking Module: octopus_ef04088.md     
+    - Tracking Module: octopus_ef04088.md     
           
 
 # Google Analytics
