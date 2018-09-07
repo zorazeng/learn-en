@@ -51,13 +51,13 @@ Size of Finished Product|146mm x 124mm x 71mm
 
 ## Documents  
 ---
-- [Motor:bit Introduction](/motor_bit.md/) 
-- [Case 01 Fixed Parking](/motor_bit_smart_car_case_01.md/) 
-- [Case 02 Keep Distance](/motor_bit_smart_car_case_02.md/) 
-- [Case 03 Line Tracking](/motor_bit_smart_car_case_03.md/) 
-- [Case 04 Avoid Barrier](/motor_bit_smart_car_case_04.md/) 
-- [Case 05 Remote Control](/motor_bit_smart_car_case_05.md/) 
-- [Case 06 Bluetooth Control](/motor_bit_smart_car_case_06.md/) 
+- [Motor:bit Introduction](/motor_bit/) 
+- [Case 01 Fixed Parking](/motor_bit_smart_car_case_01/) 
+- [Case 02 Keep Distance](/motor_bit_smart_car_case_02/) 
+- [Case 03 Line Tracking](/motor_bit_smart_car_case_03/) 
+- [Case 04 Avoid Barrier](/motor_bit_smart_car_case_04/) 
+- [Case 05 Remote Control](/motor_bit_smart_car_case_05/) 
+- [Case 06 Bluetooth Control](/motor_bit_smart_car_case_06/) 
 
 
 ## FAQ  
