@@ -133,7 +133,6 @@ pages:
         - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
         
   - Micro:bit Modules:
-    - BBC Micro:bit Board: Micro_bit_Board.md
     - Sensor:bit: Sensor_bit.md
     - Robit: 
           - Robit_Introduction: Robit.md
