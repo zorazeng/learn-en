@@ -213,10 +213,11 @@ pages:
           
      - Ring:bit Car Kit: 
           - Ring:bit Car Kit: ring_bit_car_kit.md
-          - Case_01 Add Package: Ring_bit_Car_Kit_Case_01_Add_Package.md
-          - Case_02 S Walk: Ring_bit_Car_Kit_Case_02_S_Walk.md
-          - Case_03 Draw a Circel: Ring_bit_Car_Kit_Case_03_Draw_a_Circle.md
-          - Case_04 Wireless Remote Control: Ring_bit_Car_Kit_Case_04_Wireless_Remote_Control.md
+          - Ring:bit Introduction: ring_bit.md
+          - Case_01 Add Package: ring_bit_car_kit_case_01.md
+          - Case_02 S Walk: ring_bit_car_kit_case_02.md
+          - Case_03 Draw a Circel: ring_bit_car_kit_case_03.md
+          - Case_04 Wireless Remote Control: ring_bit_car_kit_case_04.md
           
      - Motor:bit Smart Car Kit: 
           - Motor:bit Smart Car Kit: Motor_bit_Smart_Car.md
