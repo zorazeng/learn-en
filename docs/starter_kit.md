@@ -11,7 +11,7 @@ Help you to lay a good foundation for more complicated STEAM study.
 
 
 
-## Relative Readings
+## Documents
 ---
 - [Breadboard:bit Introduction](/breadboard_bit/)
 - [Micro_bit_Starter_Kit_Lesson_01_LED](/starter_kit_case_01/)  
