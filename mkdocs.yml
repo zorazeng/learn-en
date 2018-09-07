@@ -143,7 +143,7 @@ pages:
           - Case_05 Reversing Alarm: robit_case_05.md
           - Case_06 Rainbow LED: robit_case_06.md
           - Case_07 Smart Car Light: robit_case_07.md
-    - Edge_bit: edge_bit_EN.md
+    - Edge_bit: edge_bit.md
     - Micro:bit Power Supply Module 3.3V 2A: Micro_bit_Power_Supply_Module_3.3V_2A.md
 
   - Micro:bit Kits:
