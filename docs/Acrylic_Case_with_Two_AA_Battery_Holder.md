@@ -1,1 +1,0 @@
-# Acrylic_Case_with_Two_AA_Battery_Holder
