@@ -133,7 +133,7 @@ pages:
         - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
         
   - Micro:bit Modules:
-    - Sensor:bit: Sensor_bit.md
+    - Sensor:bit: sensor_bit.md
     - Robit: 
           - Robit_Introduction: robit.md
           - Case_01 Ultrasonic Distance Measurement: robit_case_01.md
