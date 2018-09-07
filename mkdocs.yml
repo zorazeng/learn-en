@@ -221,6 +221,7 @@ pages:
           
      - Motor:bit Smart Car Kit: 
           - Motor:bit Smart Car Kit: motor_bit_smart_car.md
+          - Motor:bit Introduction: motor_bit.md 
           - Case 01 Fixed Parking: motor_bit_smart_car_case_01.md
           - Case 02 Keep Distance: motor_bit_smart_car_case_02.md
           - Case 03 Line Tracking: motor_bit_smart_car_case_03.md
