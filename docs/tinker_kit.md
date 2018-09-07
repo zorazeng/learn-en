@@ -2,7 +2,7 @@
 
 ElecFreaks Micro:bit Tinker Kit is a set of Micro:bit accessory that enables you to connect all kinds of modules easily without a group of messy breadboard wires.
 
-## Relative Readings
+## Documents
 - [Octopus:bit Introduction](/octopus_bit/)
 - [Case_01 Music Machine](/tinker_kit_case_01/)
 - [Case_02 Smart Light](/tinker_kit_case_02/)
