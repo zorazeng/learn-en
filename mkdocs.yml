@@ -93,7 +93,7 @@ pages:
   - ElecFreaks Learn: 'index.md'
   
   - Micro:bit Basic Tutorial:
-    - BBC micro:bit: Micro_bit_Board.md
+    - BBC micro:bit: micro_bit.md
     - Micro:bit Funny Classroom Series:
         - Flashing Heart: classroom_case_01.md
         - Smiley Buttons: classroom_case_02.md
