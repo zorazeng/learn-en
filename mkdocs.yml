@@ -187,29 +187,29 @@ pages:
      - Micro:bit Tinker Kit: 
           - Micro:bit Tinker Kit: tinker_kit.md
           - Octopus:bit Introduction: octopus_bit.md
-          - Music Machine: Micro_bit_Tinker_Kit_Case_01_Music_Machine.md
-          - Smart Light: Micro_bit_Tinker_Kit_Case_02_Smart_Light.md
-          - Electro-Theremin: Micro_bit_Tinker_Kit_Case_03_Electro_Theremin.md
-          - Simple Alarm Box: Micro_bit_Tinker_Kit_Case_04_Simple_Alarm_Box.md
-          - Plant Monitoring Device: Micro_bit_Tinker_Kit_Case_05_Plant_Monitoring_Device.md
-          - Intruder Detection: Micro_bit_Tinker_Kit_Case_06_Intruder_Detection.md
-          - Fish Feeder: Micro_bit_Tinker_Kit_Case_07_Fish_Feeder.md
-          - Motion Detector: Micro_bit_Tinker_Kit_Case_08_Motion_Detector.md
-          - Lie Detector: Micro_bit_Tinker_Kit_Case_09_Lie_Detector.md
-          - PADDLEBALLSUPERSMASHEM: Micro_bit_Tinker_Kit_Case_10_PADDLEBALLSUPERSMASHEM.md
-          - Avoid Asteroids: Micro_bit_Tinker_Kit_Case_11_Avoid_Asteroids.md
-          - Remote Control Everything: Micro_bit_Tinker_Kit_Case_12_Remote_Control_Everything.md
-          - micro:bit Car: Micro_bit_Tinker_Kit_Case_13_Micro_bit_Car.md
-          - Flipping Pancakes: Micro_bit_Tinker_Kit_Case_14_Flipping_Pancakes.md
-          - Maze Runner: Micro_bit_Tinker_Kit_Case_15_Maze_Runner.md
-          - QUICK MATHS: Micro_bit_Tinker_Kit_Case_16_QUICK_MATHS.md
-          - Pitch Perfect: Micro_bit_Tinker_Kit_Case_17_Pitch_Perfect.md
-          - Finger Dexterity: Micro_bit_Tinker_Kit_Case_18_Finger_Dexterity.md
-          - Electric Spirit Level: Micro_bit_Tinker_Kit_Case_19_Electric_Spirit_Level.md
-          - Space Shooter: Micro_bit_Tinker_Kit_Case_20_Space_Shooter.md
-          - Flappy Bird: Micro_bit_Tinker_Kit_Case_21_Flappy_Bird.md
-          - Wire Transmission: Micro_bit_Tinker_Kit_Case_22_Wire_Transmission.md
-          - Snake Game: Micro_bit_Tinker_Kit_Case_23_Snake_Game.md
+          - Case_01 Music Machine: tinker_kit_case_01.md
+          - Case_02 Smart Light: tinker_kit_case_02.md
+          - Case_03 Electro-Theremin: tinker_kit_case_03.md
+          - Case_04 Simple Alarm Box: tinker_kit_case_04.md
+          - Case_05 Plant Monitoring Device: tinker_kit_case_05.md
+          - Case_06 Intruder Detection: tinker_kit_case_06.md
+          - Case_07 Fish Feeder: tinker_kit_case_07.md
+          - Case_08 Motion Detector: tinker_kit_case_08.md
+          - Case_09 Lie Detector: tinker_kit_case_09.md
+          - Case_10 PADDLEBALLSUPERSMASHEM: tinker_kit_case_10.md
+          - Case_11 Avoid Asteroids: tinker_kit_case_11.md
+          - Case_12 Remote Control Everything: tinker_kit_case_12.md
+          - Case_13 micro:bit Car: tinker_kit_case_13.md
+          - Case_14 Flipping Pancakes: tinker_kit_case_14.md
+          - Case_15 Maze Runner: tinker_kit_case_15.md
+          - Case_16 QUICK MATHS: tinker_kit_case_16.md
+          - Case_17 Pitch Perfect: tinker_kit_case_17.md
+          - Case_18 Finger Dexterity: tinker_kit_case_18.md
+          - Case_19 Electric Spirit Level: tinker_kit_case_19.md
+          - Case_20 Space Shooter: tinker_kit_case_20.md
+          - Case_21 Flappy Bird: tinker_kit_case_21.md
+          - Case_22 Wire Transmission: tinker_kit_case_22.md
+          - Case_23 Snake Game: tinker_kit_case_23.md
           
           
      - Micro:bit Board with Battery Holder kit: 
