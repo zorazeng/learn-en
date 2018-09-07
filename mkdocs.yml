@@ -227,7 +227,7 @@ pages:
           - Case_07 Smart Car Light: robit_case_07.md
     - Edge:bit: edge_bit.md
     - Joystick:bit: joystick_bit.md
-    - Micro:bit Power Supply Module 3.3V 2A: power_module.md
+    - Micro:bit Power Supply: microbit_power_supply.md
     - Sonar:bit: sonar_bit.md
     - Octopus Analog Rotation Brick-Blue: octopus_ef04085.md
     - 3V Relay Module: octopus_ef04086.md
