@@ -135,8 +135,6 @@ pages:
   - Micro:bit Modules:
     - BBC Micro:bit Board: Micro_bit_Board.md
     - Sensor:bit: Sensor_bit.md
-    - Motor:bit: Motor_bit_V16.md
-    - Ring:bit: Ring_bit.md
     - Robit: 
           - Robit_Introduction: Robit.md
           - Case_01 Ultrasonic Distance Measurement: Robit_Case_01.md
@@ -221,7 +219,7 @@ pages:
           
      - Motor:bit Smart Car Kit: 
           - Motor:bit Smart Car Kit: motor_bit_smart_car.md
-          - Motor:bit Introduction: motor_bit.md 
+          - Motor:bit Introduction: motor_bit_v16.md
           - Case 01 Fixed Parking: motor_bit_smart_car_case_01.md
           - Case 02 Keep Distance: motor_bit_smart_car_case_02.md
           - Case 03 Line Tracking: motor_bit_smart_car_case_03.md
