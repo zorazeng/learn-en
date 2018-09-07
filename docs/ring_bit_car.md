@@ -4,8 +4,8 @@ Ring:bit car is a DIY smart car which is based on BBC micro:bit and ELECFREAKS r
 
 
 ## Relative Readings
-- [Ring:bit Introduction](/ring_bit.md/)
-- [Case_01 Add Package](/ring_bit_car_case_01.md/)
-- [Case_02 S Walk](/ring_bit_car_case_02.md/)
-- [Case_03 Draw a Circel](/ring_bit_car_case_03.md/)
-- [Case_04 Wireless Remote Control](/ring_bit_car_case_04.md/)
+- [Ring:bit Introduction](/ring_bit/)
+- [Case_01 Add Package](/ring_bit_car_case_01/)
+- [Case_02 S Walk](/ring_bit_car_case_02/)
+- [Case_03 Draw a Circel](/ring_bit_car_case_03/)
+- [Case_04 Wireless Remote Control](/ring_bit_car_case_04/)
