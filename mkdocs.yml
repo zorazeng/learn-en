@@ -228,13 +228,11 @@ pages:
           - Case 06 Bluetooth Control: motor_bit_smart_car_case_06.md
           
   - Micro:bit Accessories:
-    - Octopus Analog Rotation Brick-Blue: Octopus_Analog_Rotation_Brick_Blue.md
-    - 3V Relay Module: octopus_1_channel_relay_3v_relay_module.md
-    - BME280 Air Pressure Sensor: octopus_ef04087.md
     - Sonar:bit: sonar_bit.md
-    - Octopus 2 Channel Tracking Module: Tracking_Module.md
-    - Micro:case: Micro_case.md
-    - Acrylic Case with Two AA Battery Holder: Acrylic_Case_with_Two_AA_Battery_Holder.md
+    - Octopus Analog Rotation Brick-Blue: octopus_ef04085.md
+    - 3V Relay Module: octopus_ef04086.md
+    - BME280 Air Pressure Sensor: octopus_ef04087.md
+    - Octopus 2 Channel Tracking Module: octopus_ef04088.md
 # Google Analytics
 #google_analytics:
 #  - 'UA-XXXXXXXX-X'
