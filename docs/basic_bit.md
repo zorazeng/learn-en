@@ -68,4 +68,3 @@ After saving the above code into micro:bit, the buzzer starts to play the music 
 ## Documents  
 ---
 
-[WIKI](wiki link)
