@@ -92,9 +92,9 @@ markdown_extensions:
 pages:
   - ElecFreaks Learn: 'index.md'
   
-  - Micro:bit Basic Tutorial:
+  - micro:bit Basic Tutorial:
     - BBC micro:bit: micro_bit.md
-    - Micro:bit Funny Classroom Series:
+    - micro:bit Funny Classroom Series:
         - Flashing Heart: classroom_case_01.md
         - Smiley Buttons: classroom_case_02.md
         - Love Meter: classroom_case_03.md
@@ -129,7 +129,7 @@ pages:
         - Telegraph: classroom_case_32.md
         - Railway Crossing: classroom_case_33.md
         - Karel: classroom_case_34.md
-    - Micro:bit Technology Blog:
+    - micro:bit Technology Blog:
         - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
         
   
