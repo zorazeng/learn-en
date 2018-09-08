@@ -134,7 +134,7 @@ pages:
         
   
 
-  - Micro:bit Kits:
+  - micro:bit Kits:
      - micro:bit Watch Kit:
           - Introduction: watch_kit.md
           - Power:bit Introduction: power_bit.md
@@ -144,14 +144,14 @@ pages:
           - Case 04：Timer: watch_kit_case_04.md
           - Case 05：Flashlight: watch_kit_case_05.md
           
-     - micro:bit basic kit:
+     - micro:bit Basic Kit:
           - Introduction: basic_kit.md
           - Basic:bit Introduction: basic_bit.md
           - Case_01 Light Controller: basic_kit_case_01.md
           - Case_02 Morse Code: basic_kit_case_02.md
           - Case_03 Function Selector: basic_kit_case_03.md
           
-     - Micro:bit Starter Kit:
+     - micro:bit Starter Kit:
           - Introduction: starter_kit.md
           - Breadboard:bit Introduction: breadboard_bit.md
           - Lesson_01 LED: starter_kit_case_01.md
@@ -169,7 +169,7 @@ pages:
           - Lesson_13 Compass: starter_kit_case_13.md
           - Lesson_14 Ambient Light: starter_kit_case_14.md
           
-     - Micro:bit Tinker Kit: 
+     - micro:bit Tinker Kit: 
           - Introduction: tinker_kit.md
           - Octopus:bit Introduction: octopus_bit.md
           - Case_01 Music Machine: tinker_kit_case_01.md
@@ -214,7 +214,7 @@ pages:
           - Case 05 Remote Control: motor_bit_smart_car_case_05.md
           - Case 06 Bluetooth Control: motor_bit_smart_car_case_06.md
           
-  - Micro:bit Modules and Sensor:
+  - micro:bit Modules and Sensor:
     - Sensor:bit: sensor_bit.md
     - Motor:bit V14: motor_bit_v14.md
     - Robit: 
