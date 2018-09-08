@@ -147,9 +147,9 @@ pages:
      - micro:bit Basic Kit:
           - Introduction: basic_kit.md
           - Basic:bit Introduction: basic_bit.md
-          - Case_01 Light Controller: basic_kit_case_01.md
-          - Case_02 Morse Code: basic_kit_case_02.md
-          - Case_03 Function Selector: basic_kit_case_03.md
+          - Case 01 Light Controller: basic_kit_case_01.md
+          - Case 02 Morse Code: basic_kit_case_02.md
+          - Case 03 Function Selector: basic_kit_case_03.md
           
      - micro:bit Starter Kit:
           - Introduction: starter_kit.md
@@ -219,13 +219,13 @@ pages:
     - motor:bit v14: motor_bit_v14.md
     - robit: 
           - Introduction: robit.md
-          - Case_01 Ultrasonic Distance Measurement: robit_case_01.md
-          - Case_02 Ultrasonic Obstacle Avoidance: robit_case_02.md
-          - Case_03 Never Fallen Car: robit_case_03.md
-          - Case_04 Line Tracking: robit_case_04.md
-          - Case_05 Reversing Alarm: robit_case_05.md
-          - Case_06 Rainbow LED: robit_case_06.md
-          - Case_07 Smart Car Light: robit_case_07.md
+          - Case 01 Ultrasonic Distance Measurement: robit_case_01.md
+          - Case 02 Ultrasonic Obstacle Avoidance: robit_case_02.md
+          - Case 03 Never Fallen Car: robit_case_03.md
+          - Case 04 Line Tracking: robit_case_04.md
+          - Case 05 Reversing Alarm: robit_case_05.md
+          - Case 06 Rainbow LED: robit_case_06.md
+          - Case 07 Smart Car Light: robit_case_07.md
     - edge:bit: edge_bit.md
     - joystick:bit: joystick_bit.md
     - Power Supply: microbit_power_supply.md
