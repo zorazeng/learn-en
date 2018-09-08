@@ -9,7 +9,7 @@ Basic:bit is a basic breakout board of micro:bit. It carries a buzzer and three 
 
 - Small size with smart design, it is a perfect match for your micro:bit.
 - Easily connected to micro:bit and lead out its power and IO ports with screws only.
-- Lead out P0/P1/P2/3V/GND port on micro:bit board. 
+- Lead out P0,P1,P2,3V,GND port on micro:bit board. 
 - Allow you to complete 98% micro:bit projects with three IO ports. 
 - The switch on board controls the ON/OFF status of buzzer. 
 
