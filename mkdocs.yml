@@ -196,7 +196,7 @@ pages:
           - Case_22 Wire Transmission: tinker_kit_case_22.md
           - Case_23 Snake Game: tinker_kit_case_23.md
           
-     - Ring:bit Car Kit: 
+     - ring:bit Car Kit: 
           - Introduction: ring_bit_car.md
           - Ring:bit Introduction: ring_bit.md
           - Case_01 Add Package: ring_bit_car_case_01.md
@@ -204,7 +204,7 @@ pages:
           - Case_03 Draw a Circel: ring_bit_car_case_03.md
           - Case_04 Wireless Remote Control: ring_bit_car_case_04.md
           
-     - Motor:bit Smart Car Kit: 
+     - motor:bit Smart Car Kit: 
           - Introduction: motor_bit_smart_car.md
           - Motor:bit Introduction: motor_bit_v16.md
           - Case 01 Fixed Parking: motor_bit_smart_car_case_01.md
@@ -215,9 +215,9 @@ pages:
           - Case 06 Bluetooth Control: motor_bit_smart_car_case_06.md
           
   - micro:bit Modules and Sensor:
-    - Sensor:bit: sensor_bit.md
-    - Motor:bit V14: motor_bit_v14.md
-    - Robit: 
+    - sensor:bit: sensor_bit.md
+    - motor:bit v14: motor_bit_v14.md
+    - robit: 
           - Introduction: robit.md
           - Case_01 Ultrasonic Distance Measurement: robit_case_01.md
           - Case_02 Ultrasonic Obstacle Avoidance: robit_case_02.md
@@ -226,10 +226,10 @@ pages:
           - Case_05 Reversing Alarm: robit_case_05.md
           - Case_06 Rainbow LED: robit_case_06.md
           - Case_07 Smart Car Light: robit_case_07.md
-    - Edge:bit: edge_bit.md
-    - Joystick:bit: joystick_bit.md
+    - edge:bit: edge_bit.md
+    - joystick:bit: joystick_bit.md
     - Power Supply: microbit_power_supply.md
-    - Sonar:bit: sonar_bit.md
+    - sonar:bit: sonar_bit.md
     - Analog Rotation Brick: octopus_ef04085.md
     - 3V Relay Module: octopus_ef04086.md
     - BME280 Air Pressure Sensor: octopus_ef04087.md
