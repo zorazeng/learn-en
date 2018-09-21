@@ -65,7 +65,7 @@ Insert the micro:bit into sensor:bit and then insert 8x16 matrix module into its
 
 Use makecode to program and achieve the scrolling-displaying on 8x16 led matrix display. 
 
-The links of the program: <https://makecode.microbit.org/_FsFWvpXP4gsm>
+The links of the program: [https://makecode.microbit.org/40158-70085-71348-94263](https://makecode.microbit.org/40158-70085-71348-94263)
 
 You can also download it directly:
 
