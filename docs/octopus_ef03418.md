@@ -76,3 +76,5 @@ You can also download it directly:
 The scroll-displaying begins from top to bottom and then from left to right on the 8x16 matrix module.
 
 ## FAQ
+
+
