@@ -92,7 +92,7 @@ markdown_extensions:
 pages:
   - ElecFreaks Learn: 'index.md'
   
-  - micro:bit Basic Tutorial:
+    - micro:bit Basic Tutorial:
     - BBC micro:bit: micro_bit.md
     - micro:bit Funny Classroom Series:
       - Flashing Heart: classroom_case_01.md
@@ -131,103 +131,95 @@ pages:
       - Karel: classroom_case_34.md
     - micro:bit Technology Blog:
       - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
-
   - micro:bit Kits:
-     - micro:bit Watch Kit:
-          - Introduction: watch_kit.md
-          - Power:bit Introduction: power_bit.md
-          - Case 01：Compass: watch_kit_case_01.md
-          - Case 02：Dice: watch_kit_case_02.md
-          - Case 03：Thermometer: watch_kit_case_03.md
-          - Case 04：Timer: watch_kit_case_04.md
-          - Case 05：Flashlight: watch_kit_case_05.md
-          
-     - micro:bit Basic Kit:
-          - Introduction: basic_kit.md
-          - Basic:bit Introduction: basic_bit.md
-          - Case 01 Light Controller: basic_kit_case_01.md
-          - Case 02 Morse Code: basic_kit_case_02.md
-          - Case 03 Function Selector: basic_kit_case_03.md
-          
-     - micro:bit Starter Kit:
-          - Introduction: starter_kit.md
-          - Breadboard:bit Introduction: breadboard_bit.md
-          - Lesson 01 LED: starter_kit_case_01.md
-          - Lesson 02 Button: starter_kit_case_02.md
-          - Lesson 03 Trimpot: starter_kit_case_03.md
-          - Lesson 04 Photocell: starter_kit_case_04.md
-          - Lesson 05 RGB LED: starter_kit_case_05.md
-          - Lesson 06 Self-lock Switch: starter_kit_case_06.md
-          - Lesson 07 Temperature Sensor: starter_kit_case_07.md
-          - Lesson 08 Servo: starter_kit_case_08.md
-          - Lesson 09 Buzzer: starter_kit_case_09.md
-          - Lesson 10 Motor: starter_kit_case_10.md
-          - Lesson 11 Rainbow LED: starter_kit_case_11.md
-          - Lesson 12 Accelerometer: starter_kit_case_12.md
-          - Lesson 13 Compass: starter_kit_case_13.md
-          - Lesson 14 Ambient Light: starter_kit_case_14.md
-          
-     - micro:bit Tinker Kit: 
-          - Introduction: tinker_kit.md
-          - Octopus:bit Introduction: octopus_bit.md
-          - Case 01 Music Machine: tinker_kit_case_01.md
-          - Case 02 Smart Light: tinker_kit_case_02.md
-          - Case 03 Electro-Theremin: tinker_kit_case_03.md
-          - Case 04 Simple Alarm Box: tinker_kit_case_04.md
-          - Case 05 Plant Monitoring Device: tinker_kit_case_05.md
-          - Case 06 Intruder Detection: tinker_kit_case_06.md
-          - Case 07 Fish Feeder: tinker_kit_case_07.md
-          - Case 08 Motion Detector: tinker_kit_case_08.md
-          - Case 09 Lie Detector: tinker_kit_case_09.md
-          - Case 10 PADDLEBALLSUPERSMASHEM: tinker_kit_case_10.md
-          - Case 11 Avoid Asteroids: tinker_kit_case_11.md
-          - Case 12 Remote Control Everything: tinker_kit_case_12.md
-          - Case 13 micro:bit Car: tinker_kit_case_13.md
-          - Case 14 Flipping Pancakes: tinker_kit_case_14.md
-          - Case 15 Maze Runner: tinker_kit_case_15.md
-          - Case 16 QUICK MATHS: tinker_kit_case_16.md
-          - Case 17 Pitch Perfect: tinker_kit_case_17.md
-          - Case 18 Finger Dexterity: tinker_kit_case_18.md
-          - Case 19 Electric Spirit Level: tinker_kit_case_19.md
-          - Case 20 Space Shooter: tinker_kit_case_20.md
-          - Case 21 Flappy Bird: tinker_kit_case_21.md
-          - Case 22 Wire Transmission: tinker_kit_case_22.md
-          - Case 23 Snake Game: tinker_kit_case_23.md
-          
-     - ring:bit Car Kit: 
-          - Introduction: ring_bit_car.md
-          - Ring:bit Introduction: ring_bit.md
-          - Case 01 Add Package: ring_bit_car_case_01.md
-          - Case 02 S Walk: ring_bit_car_case_02.md
-          - Case 03 Draw a Circel: ring_bit_car_case_03.md
-          - Case 04 Wireless Remote Control: ring_bit_car_case_04.md
-          
-     - motor:bit Smart Car Kit: 
-          - Introduction: motor_bit_smart_car.md
-          - motor:bit Introduction: motor_bit_v16.md
-          - Case 01 Fixed Parking: motor_bit_smart_car_case_01.md
-          - Case 02 Keep Distance: motor_bit_smart_car_case_02.md
-          - Case 03 Line Tracking: motor_bit_smart_car_case_03.md
-          - Case 04 Avoid Barrier: motor_bit_smart_car_case_04.md
-          - Case 05 Remote Control: motor_bit_smart_car_case_05.md
-          - Case 06 Bluetooth Control: motor_bit_smart_car_case_06.md
-          
+    - micro:bit Watch Kit:
+      - Introduction: watch_kit.md
+      - Power:bit Introduction: power_bit.md
+      - Case 01：Compass: watch_kit_case_01.md
+      - Case 02：Dice: watch_kit_case_02.md
+      - Case 03：Thermometer: watch_kit_case_03.md
+      - Case 04：Timer: watch_kit_case_04.md
+      - Case 05：Flashlight: watch_kit_case_05.md   
+    - micro:bit Basic Kit:
+      - Introduction: basic_kit.md
+      - Basic:bit Introduction: basic_bit.md
+      - Case 01 Light Controller: basic_kit_case_01.md
+      - Case 02 Morse Code: basic_kit_case_02.md
+      - Case 03 Function Selector: basic_kit_case_03.md
+    - micro:bit Starter Kit:
+      - Introduction: starter_kit.md
+      - Breadboard:bit Introduction: breadboard_bit.md
+      - Lesson 01 LED: starter_kit_case_01.md
+      - Lesson 02 Button: starter_kit_case_02.md
+      - Lesson 03 Trimpot: starter_kit_case_03.md
+      - Lesson 04 Photocell: starter_kit_case_04.md
+      - Lesson 05 RGB LED: starter_kit_case_05.md
+      - Lesson 06 Self-lock Switch: starter_kit_case_06.md
+      - Lesson 07 Temperature Sensor: starter_kit_case_07.md
+      - Lesson 08 Servo: starter_kit_case_08.md
+      - Lesson 09 Buzzer: starter_kit_case_09.md
+      - Lesson 10 Motor: starter_kit_case_10.md
+      - Lesson 11 Rainbow LED: starter_kit_case_11.md
+      - Lesson 12 Accelerometer: starter_kit_case_12.md
+      - Lesson 13 Compass: starter_kit_case_13.md
+      - Lesson 14 Ambient Light: starter_kit_case_14.md
+    - micro:bit Tinker Kit: 
+      - Introduction: tinker_kit.md
+      - Octopus:bit Introduction: octopus_bit.md
+      - Case 01 Music Machine: tinker_kit_case_01.md
+      - Case 02 Smart Light: tinker_kit_case_02.md
+      - Case 03 Electro-Theremin: tinker_kit_case_03.md
+      - Case 04 Simple Alarm Box: tinker_kit_case_04.md
+      - Case 05 Plant Monitoring Device: tinker_kit_case_05.md
+      - Case 06 Intruder Detection: tinker_kit_case_06.md
+      - Case 07 Fish Feeder: tinker_kit_case_07.md
+      - Case 08 Motion Detector: tinker_kit_case_08.md
+      - Case 09 Lie Detector: tinker_kit_case_09.md
+      - Case 10 PADDLEBALLSUPERSMASHEM: tinker_kit_case_10.md
+      - Case 11 Avoid Asteroids: tinker_kit_case_11.md
+      - Case 12 Remote Control Everything: tinker_kit_case_12.md
+      - Case 13 micro:bit Car: tinker_kit_case_13.md
+      - Case 14 Flipping Pancakes: tinker_kit_case_14.md
+      - Case 15 Maze Runner: tinker_kit_case_15.md
+      - Case 16 QUICK MATHS: tinker_kit_case_16.md
+      - Case 17 Pitch Perfect: tinker_kit_case_17.md
+      - Case 18 Finger Dexterity: tinker_kit_case_18.md
+      - Case 19 Electric Spirit Level: tinker_kit_case_19.md
+      - Case 20 Space Shooter: tinker_kit_case_20.md
+      - Case 21 Flappy Bird: tinker_kit_case_21.md
+      - Case 22 Wire Transmission: tinker_kit_case_22.md
+      - Case 23 Snake Game: tinker_kit_case_23.md
+    - ring:bit Car Kit: 
+      - Introduction: ring_bit_car.md
+      - Ring:bit Introduction: ring_bit.md
+      - Case 01 Add Package: ring_bit_car_case_01.md
+      - Case 02 S Walk: ring_bit_car_case_02.md
+      - Case 03 Draw a Circel: ring_bit_car_case_03.md
+      - Case 04 Wireless Remote Control: ring_bit_car_case_04.md
+    - motor:bit Smart Car Kit: 
+      - Introduction: motor_bit_smart_car.md
+      - motor:bit Introduction: motor_bit_v16.md
+      - Case 01 Fixed Parking: motor_bit_smart_car_case_01.md
+      - Case 02 Keep Distance: motor_bit_smart_car_case_02.md
+      - Case 03 Line Tracking: motor_bit_smart_car_case_03.md
+      - Case 04 Avoid Barrier: motor_bit_smart_car_case_04.md
+      - Case 05 Remote Control: motor_bit_smart_car_case_05.md
+      - Case 06 Bluetooth Control: motor_bit_smart_car_case_06.md  
     - robit Smart Car kit: 
-          - Kit Introduction: robit_smart_car.md
-          - robit Introduction: robit.md
-          
+      - Kit Introduction: robit_smart_car.md
+      - robit Introduction: robit.md
   - micro:bit Modules and Sensor:
     - sensor:bit: sensor_bit.md
     - motor:bit v14: motor_bit_v14.md
     - robit: 
-          - Introduction: robit.md
-          - Case 01 Ultrasonic Distance Measurement: robit_case_01.md
-          - Case 02 Ultrasonic Obstacle Avoidance: robit_case_02.md
-          - Case 03 Never Fallen Car: robit_case_03.md
-          - Case 04 Line Tracking: robit_case_04.md
-          - Case 05 Reversing Alarm: robit_case_05.md
-          - Case 06 Rainbow LED: robit_case_06.md
-          - Case 07 Smart Car Light: robit_case_07.md
+      - Introduction: robit.md
+      - Case 01 Ultrasonic Distance Measurement: robit_case_01.md
+      - Case 02 Ultrasonic Obstacle Avoidance: robit_case_02.md
+      - Case 03 Never Fallen Car: robit_case_03.md
+      - Case 04 Line Tracking: robit_case_04.md
+      - Case 05 Reversing Alarm: robit_case_05.md
+      - Case 06 Rainbow LED: robit_case_06.md
+      - Case 07 Smart Car Light: robit_case_07.md
     - edge:bit: edge_bit.md
     - joystick:bit: joystick_bit.md
     - Power Supply: microbit_power_supply.md
