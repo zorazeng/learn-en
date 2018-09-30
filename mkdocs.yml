@@ -91,8 +91,7 @@ markdown_extensions:
 # Page tree
 pages:
   - ElecFreaks Learn: 'index.md'
-  
-    - micro:bit Basic Tutorial:
+  - micro:bit Basic Tutorial:
     - BBC micro:bit: micro_bit.md
     - micro:bit Funny Classroom Series:
       - Flashing Heart: classroom_case_01.md
