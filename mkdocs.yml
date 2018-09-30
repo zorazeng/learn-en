@@ -95,44 +95,42 @@ pages:
   - micro:bit Basic Tutorial:
     - BBC micro:bit: micro_bit.md
     - micro:bit Funny Classroom Series:
-        - Flashing Heart: classroom_case_01.md
-        - Smiley Buttons: classroom_case_02.md
-        - Love Meter: classroom_case_03.md
-        - Rock Papaer Scissors: classroom_case_04.md
-        - Magic Button Trick: classroom_case_05.md
-        - Coin Flipper: classroom_case_06.md
-        - Salute: classroom_case_07.md
-        - Hack your headphones: classroom_case_08.md
-        - Banana Keyboard: classroom_case_09.md
-        - Guitar: classroom_case_10.md
-        - Duct Type Wallet: classroom_case_11.md
-        - Watch: classroom_case_12.md
-        - Countdown Timer: classroom_case_13.md
-        - Digital Watch: classroom_case_14.md
-        - Soil Moisture: classroom_case_15.md
-        - Plant Watering: classroom_case_16.md
-        - Reaction Time: classroom_case_17.md
-        - States of Matter: classroom_case_18.md
-        - Mood Radio: classroom_case_19.md
-        - Tele-Potato: classroom_case_20.md
-        - Hot or Cold: classroom_case_21.md
-        - Voting Machine: classroom_case_22.md
-        - Infection: classroom_case_23.md
-        - Fireflies: classroom_case_24.md
-        - Rock Paper Scissors Teams: classroom_case_25.md
-        - Microcoin: classroom_case_26.md
-        - Inchworm: classroom_case_27.md
-        - Milk Monster: classroom_case_28.md
-        - RC Car: classroom_case_29.md
-        - Timing Gates: classroom_case_30.md
-        - Compass: classroom_case_31.md
-        - Telegraph: classroom_case_32.md
-        - Railway Crossing: classroom_case_33.md
-        - Karel: classroom_case_34.md
+      - Flashing Heart: classroom_case_01.md
+      - Smiley Buttons: classroom_case_02.md
+      - Love Meter: classroom_case_03.md
+      - Rock Papaer Scissors: classroom_case_04.md
+      - Magic Button Trick: classroom_case_05.md
+      - Coin Flipper: classroom_case_06.md
+      - Salute: classroom_case_07.md
+      - Hack your headphones: classroom_case_08.md
+      - Banana Keyboard: classroom_case_09.md
+      - Guitar: classroom_case_10.md
+      - Duct Type Wallet: classroom_case_11.md
+      - Watch: classroom_case_12.md
+      - Countdown Timer: classroom_case_13.md
+      - Digital Watch: classroom_case_14.md
+      - Soil Moisture: classroom_case_15.md
+      - Plant Watering: classroom_case_16.md
+      - Reaction Time: classroom_case_17.md
+      - States of Matter: classroom_case_18.md
+      - Mood Radio: classroom_case_19.md
+      - Tele-Potato: classroom_case_20.md
+      - Hot or Cold: classroom_case_21.md
+      - Voting Machine: classroom_case_22.md
+      - Infection: classroom_case_23.md
+      - Fireflies: classroom_case_24.md
+      - Rock Paper Scissors Teams: classroom_case_25.md
+      - Microcoin: classroom_case_26.md
+      - Inchworm: classroom_case_27.md
+      - Milk Monster: classroom_case_28.md
+      - RC Car: classroom_case_29.md
+      - Timing Gates: classroom_case_30.md
+      - Compass: classroom_case_31.md
+      - Telegraph: classroom_case_32.md
+      - Railway Crossing: classroom_case_33.md
+      - Karel: classroom_case_34.md
     - micro:bit Technology Blog:
-        - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
-        
-  
+      - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
 
   - micro:bit Kits:
      - micro:bit Watch Kit:
@@ -215,8 +213,8 @@ pages:
           - Case 06 Bluetooth Control: motor_bit_smart_car_case_06.md
           
     - robit Smart Car kit: 
-          -Kit Introduction: robit_smart_car.md
-          -robit Introduction: robit.md
+          - Kit Introduction: robit_smart_car.md
+          - robit Introduction: robit.md
           
   - micro:bit Modules and Sensor:
     - sensor:bit: sensor_bit.md
