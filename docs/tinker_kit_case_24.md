@@ -4,6 +4,7 @@
 - Let’s figure out where all those screws are supposed to go.
 
 ![](https://i.imgur.com/N3HnCBy.jpg)
+
 ## Goals
 ---
 - Assemble the game:bit.
