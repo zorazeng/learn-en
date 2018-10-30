@@ -93,7 +93,7 @@ pages:
   - ElecFreaks Learn: 'index.md'
   - micro:bit Basic Tutorial:
     - BBC micro:bit: micro_bit.md
-    - Egde Connector Data Sheet: Egde_Connector_Data_Sheet.md
+    - Edge Connector Data Sheet: Edge_Connector_Data_Sheet.md
     - micro:bit Funny Classroom Series:
       - Flashing Heart: classroom_case_01.md
       - Smiley Buttons: classroom_case_02.md
