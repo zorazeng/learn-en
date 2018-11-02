@@ -93,7 +93,6 @@ pages:
   - ElecFreaks Learn: 'index.md'
   - micro:bit Basic Tutorial:
     - BBC micro:bit: micro_bit.md
-    - Edge Connector Data Sheet: Edge_Connector_Data_Sheet.md
     - micro:bit Funny Classroom Series:
       - Flashing Heart: classroom_case_01.md
       - Smiley Buttons: classroom_case_02.md
@@ -129,8 +128,9 @@ pages:
       - Telegraph: classroom_case_32.md
       - Railway Crossing: classroom_case_33.md
       - Karel: classroom_case_34.md
-    - micro:bit Technology Blog:
-      - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
+  - micro:bit relevant materials:
+    - Edge Connector Data Sheet: Edge_Connector_Data_Sheet.md
+    - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
   - micro:bit Kits:
     - micro:bit Watch Kit:
       - Introduction: watch_kit.md
@@ -190,6 +190,8 @@ pages:
       - Case 22 Wire Transmission: tinker_kit_case_22.md
       - Case 23 Snake Game: tinker_kit_case_23.md
       - Case 24 Game bit: tinker_kit_case_24.md
+    - micro:bit smarthome Kit:
+      - Introduction: smarthome_kit.md
     - ring:bit Car Kit: 
       - Introduction: ring_bit_car.md
       - Ring:bit Introduction: ring_bit.md
