@@ -131,6 +131,7 @@ pages:
   - micro:bit relevant materials:
     - Edge Connector Data Sheet: Edge_Connector_Data_Sheet.md
     - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
+    - troubleshooting downloads with webusb: troubleshooting_downloads_with_webusb.md
   - micro:bit Kits:
     - micro:bit Watch Kit:
       - Introduction: watch_kit.md
