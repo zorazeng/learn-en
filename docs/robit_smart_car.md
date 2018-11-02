@@ -1,4 +1,4 @@
-## 简介Introduction  
+## Introduction  
 ---
 Robit smart car is a kind of smart car which is based on micro:bit and ElecFreaks robit. Besides the RJ25 wiring port and  motor port in Mbot, the robit is also equipped with  2-way DC motor connectors , 2-way stepping motor connectors(Stepping motor connectors and 4-way DC motor connectors are multiplexed ) and 8-way PWM signal output connectors.  It can drive PWM signal driving devices like servo. It has 8-way G-5V-S digital signal connectors(for connecting with OCTOPUS electric bricks) and 4-way G-5V-S analog signal connectors(for connecting with OCTOPUS electric bricks). Robit can realize all current basic functions of MBOT and it can be regarded as the new generation of Mbot.
 
