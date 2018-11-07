@@ -6,7 +6,7 @@
 
 ## Materials
 ---
-- 1 x [Smarthome kit](https://www.elecfreaks.com/estore)
+- 1 x [Smart home Kit](https://www.elecfreaks.com/estore)
 - 1 x corrugated board
 - 2 x small sticks
 - 1 x glue
