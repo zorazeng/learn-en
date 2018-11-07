@@ -7,7 +7,7 @@
 ## Materials
 ---
 
-- 1 x [Smarthome kit](https://www.elecfreaks.com/estore)
+- 1 x [Smart home Kit](https://www.elecfreaks.com/estore)
 - 1 x corrugated board
 
 ## Background
