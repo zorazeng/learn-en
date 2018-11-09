@@ -194,6 +194,7 @@ pages:
       - Case 25 µ reMorse: tinker_kit_case_25.md
     - micro:bit Smart home Kit:
       - Introduction: smart_home_kit.md
+      - sensor:bit: sensor_bit.md
       - Case 01 Voice-activated Lights: smart_home_case_01.md
       - Case 02 Smart Fan: smart_home_case_02.md
       - Case 03 Auto Windows: smart_home_case_03.md
