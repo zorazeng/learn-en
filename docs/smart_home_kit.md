@@ -29,10 +29,10 @@ smart home kit Manual Book|1
 ## Documents
 ---
 - [sensor:bit](/Sensor_bit.md/)
-- [Case01：Voice-activatied light](/smart_home_case_01.md/)
-- [Case02：Smart fan](/smart_home_case_02.md/)  
-- [Case03：Auto windows](/smart_home_case_03.md/)  
-- [Case04：Auto wardrobe](/smart_home_case_04.md/) 
-- [Case05：Water level detector](/smart_home_case_05.md/) 
+- [Case01：Voice-activatied light](/smart_home_case_01/)
+- [Case02：Smart fan](/smart_home_case_02/)  
+- [Case03：Auto windows](/smart_home_case_03/)  
+- [Case04：Auto wardrobe](/smart_home_case_04/) 
+- [Case05：Water level detector](/smart_home_case_05/) 
 
 ## FAQ
