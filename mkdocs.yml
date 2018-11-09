@@ -192,9 +192,19 @@ pages:
       - Case 23 Snake Game: tinker_kit_case_23.md
       - Case 24 Game bit: tinker_kit_case_24.md
       - Case 25 µ reMorse: tinker_kit_case_25.md
+      - Case 26 Coin Sorter with micro:bit: tinker_kit_case_26.md
       - Case 27 Make a Waving Fortune Cat: tinker_kit_case_27.md
+
+      
+
     - micro:bit Smart home Kit:
       - Introduction: smart_home_kit.md
+      - sensor:bit: sensor_bit.md
+      - Case 01 Voice-activated Lights: smart_home_case_01.md
+      - Case 02 Smart Fan: smart_home_case_02.md
+      - Case 03 Auto Windows: smart_home_case_03.md
+      - Case 04 Smart Wardrobe: smart_home_case_04.md
+      - Case 05 Water Level Alarming: smart_home_case_05.md
     - ring:bit Car Kit: 
       - Introduction: ring_bit_car.md
       - Ring:bit Introduction: ring_bit.md
