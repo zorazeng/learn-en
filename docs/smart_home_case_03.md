@@ -1,6 +1,7 @@
 
 ## Goal
 ---
+![](https://i.imgur.com/1BOixPA.jpg)
 
 - Make a smart wardrobe
 
