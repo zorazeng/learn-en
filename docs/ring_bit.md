@@ -60,7 +60,7 @@ Fix micro:bit board:
 
 ### G-V-S P0 Connector    
 
-P0 connector can be used as digital IO connector, analog IO connecotr or PWM output signal connector.    
+P0 connector can be used as digital IO connector, analog IO connector or PWM output signal connector.    
 ![](https://i.imgur.com/5CuTWoN.png)  
 
 ### G-V-S P1 Connector    
