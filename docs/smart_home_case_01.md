@@ -1,6 +1,7 @@
 
 ## Goal
 ---
+![](https://i.imgur.com/OyHm1YO.jpg)
 
 - Make a Rainbow LED controlled by sound and light.
 
