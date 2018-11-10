@@ -1,6 +1,7 @@
 
 ## Goal
 ---
+![](https://i.imgur.com/krV05be.jpg)
 
 - Make an auto window.
 
