@@ -1,6 +1,7 @@
-
+![](https://i.imgur.com/abtHWmp.jpg)
 ## Goal
 ---
+
 
 - Make a smart temperature control fan. 
 
