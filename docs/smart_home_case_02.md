@@ -1,7 +1,7 @@
-
+![](https://i.imgur.com/abtHWmp.jpg)
 ## Goal
 ---
-![](https://i.imgur.com/abtHWmp.jpg)
+
 
 - Make a smart temperature control fan. 
 
