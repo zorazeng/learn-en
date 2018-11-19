@@ -2,7 +2,7 @@
 ## Introduction
 ---
 
-Game:bit is a JoyStick based on micro:bit. It contains a 4-direction joystick and 4 undefined buttons as well as sound & vibration feedback. At the same time, it is energy-saving and convenient for the function that energizing with micro:bit,power outage without micro:bit. Let's play with it and find more interesting.
+Joystick:bit 2 is a JoyStick based on micro:bit. It contains a 4-direction joystick and 4 undefined buttons as well as sound & vibration feedback. At the same time, it is energy-saving and convenient for the function that energizing with micro:bit,power outage without micro:bit. Let's play with it and find more interesting.
 
 ![](https://i.imgur.com/sYJrIec.jpg)
 
@@ -21,7 +21,6 @@ Game:bit is a JoyStick based on micro:bit. It contains a 4-direction joystick an
 ## Parameters
 ---
 ![](https://i.imgur.com/v5Abpsz.png)
-
 
 
 ## Appearance & location dimension
@@ -68,13 +67,13 @@ It contains 7 GVS extension ports which could be soldered pin head and master mo
 
 Install two 3A batteries to game:bit and insert the micro:bit.
 
-Add game:bit package
+Add joystick:bit package
 
 Go ahead [makecode](https://makecode.microbit.org/) and add new project, click on Extensions.
 
 ![](https://i.imgur.com/wGIwpxn.png)
 
-Search game:bit and add game:bit package.
+Search `joystickbit` and add joystick:bit package.
 
 ![](https://i.imgur.com/dn3WwgS.png)
 
@@ -93,10 +92,10 @@ You also could directly download program visit website as below:
 
 When download is finished, turn on the power switch and you will hear system sound. 
 
-Push button C, the game:bit will vibrate once.
-Push button D, the game:bit will vibrate once.
-Push button E, the game:bit will vibrate once.
-Push button F, the game:bit will vibrate once.
+Push button C, the joystick:bit will vibrate once.
+Push button D, the joystick:bit will vibrate once.
+Push button E, the joystick:bit will vibrate once.
+Push button F, the joystick:bit will vibrate once.
 
 
 ## Information 
