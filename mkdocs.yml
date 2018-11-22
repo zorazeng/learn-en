@@ -236,7 +236,7 @@ pages:
   - micro:bit Modules and Sensor:
     - sensor:bit: sensor_bit.md
     - motor:bit v14: motor_bit_v14.md
-    - joystick:bit 2: joystick_bit_2.md
+    - joystick:bit v2: joystick_bit_v2.md
     - robit: 
       - Introduction: robit.md
       - Case 01 Ultrasonic Distance Measurement: robit_case_01.md
