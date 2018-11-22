@@ -96,11 +96,11 @@ Make your code. Ever once you press buttons of your joystick:bit, it comes about
 
 ![](https://i.imgur.com/NuJoZ5S.png)
 
-[Code](https://makecode.microbit.org/69058-44717-79744-07437)
+[Code](https://makecode.microbit.org/_bzEC0x0M6Rig)
 
 You also could directly download program visit website as below:
 
-<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_U8g12ia1PE6g" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_bzEC0x0M6Rig" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 
 
