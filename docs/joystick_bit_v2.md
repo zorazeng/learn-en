@@ -86,7 +86,7 @@ Go ahead [makecode](https://makecode.microbit.org/) and add new project, click o
 
 ![](https://i.imgur.com/wGIwpxn.png)
 
-Search joystickbit and add joystick:bit package.
+Search `joystickbit` and add joystick:bit package.
 
 ![](https://i.imgur.com/ztzfL46.png)
 
