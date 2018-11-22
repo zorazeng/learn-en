@@ -2,7 +2,7 @@
 ## Goal
 ---
 
-- Make a shoke box.
+- Make a shock box.
 
 ## Materials
 ---
@@ -19,13 +19,13 @@
 
 ## Background
 ---
-### What is a shoke box ?
+### What is a shock box ?
 
-- Want to be special? Let's make a shoke box and you will find more when you turn off the light.
+- Want to be special? Let's make a shock box and you will find more when you turn off the light.
 
 ### How does it work?
 
-- When micro:bit is received signal detected by crash sensor by basic:kit board, the servo turns and the shoke box turns and shows different faces.
+- When micro:bit is received signal detected by crash sensor by basic:kit board, the servo turns and the shock box turns and shows different faces.
 
 
 ## Practical operation
