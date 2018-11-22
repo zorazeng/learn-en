@@ -2,7 +2,7 @@
 ## Introduction
 ---
 
-Joystick:bit 2 is a JoyStick based on micro:bit. It contains a 4-direction joystick and 4 undefined buttons as well as sound & vibration feedback. At the same time, it is energy-saving and convenient for the function that energizing with micro:bit,power outage without micro:bit. Let's play with it and find more interesting.
+Joystick:bit V2 is a JoyStick based on micro:bit. It contains a 4-direction joystick and 4 undefined buttons as as classic JoyStick. At the same time, with the board buzzer and vibration motor, it also enhance game experience. Joystick:bit V2 can be remote control handle for micro:bit which on compact appearance and comfortable touch.
 
 ![](https://i.imgur.com/sYJrIec.jpg)
 
@@ -11,7 +11,9 @@ Joystick:bit 2 is a JoyStick based on micro:bit. It contains a 4-direction joyst
 ---
 - With buzzer 
 
-- Vibration feedback
+- Vibration feedback for better game experience
+
+- Add makecode package, simple for software
 
 - Automatically power outage while micro:bit is pulled out
 
@@ -20,7 +22,18 @@ Joystick:bit 2 is a JoyStick based on micro:bit. It contains a 4-direction joyst
 
 ## Parameters
 ---
-![](https://i.imgur.com/v5Abpsz.png)
+Items | Parameters
+:-:|:-:
+Name|Joystick:bit V2
+SKU|EF03417
+Supply|2xAAA Batteries
+Voltage|DC 3V
+Number of rocker|1
+Undefined buttons|4
+Buzzer|Support
+Vibration feedback|Support
+Size|109.61mm X 49.56mm
+Net weight|31.3g
 
 
 ## Appearance & location dimension
@@ -67,20 +80,21 @@ It contains 7 GVS extension ports which could be soldered pin head and master mo
 
 Install two 3A batteries to game:bit and insert the micro:bit.
 
-Add joystick:bit package
+**Add game:bit package**
 
 Go ahead [makecode](https://makecode.microbit.org/) and add new project, click on Extensions.
 
 ![](https://i.imgur.com/wGIwpxn.png)
 
-Search `joystickbit` and add joystick:bit package.
+Search joystickbit and add joystick:bit package.
 
-![](https://i.imgur.com/dn3WwgS.png)
+![](https://i.imgur.com/ztzfL46.png)
 
-![](https://i.imgur.com/u6iOWqs.png)
+![](https://i.imgur.com/kzCoz3C.png)
 
-![](https://i.imgur.com/qvPSrjV.png)
+Make your code. Ever once you press buttons of your joystick:bit, it comes about vibration feedback with buttons sign showing.
 
+![](https://i.imgur.com/NuJoZ5S.png)
 
 [Code](https://makecode.microbit.org/69058-44717-79744-07437)
 
@@ -92,10 +106,10 @@ You also could directly download program visit website as below:
 
 When download is finished, turn on the power switch and you will hear system sound. 
 
-Push button C, the joystick:bit will vibrate once.
-Push button D, the joystick:bit will vibrate once.
-Push button E, the joystick:bit will vibrate once.
-Push button F, the joystick:bit will vibrate once.
+Push button C, the game:bit will vibrate once.
+Push button D, the game:bit will vibrate once.
+Push button E, the game:bit will vibrate once.
+Push button F, the game:bit will vibrate once.
 
 
 ## Information 
