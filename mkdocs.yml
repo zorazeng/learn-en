@@ -147,6 +147,7 @@ pages:
       - Case 01 Light Controller: basic_kit_case_01.md
       - Case 02 Morse Code: basic_kit_case_02.md
       - Case 03 Function Selector: basic_kit_case_03.md
+      - Case 04 Show Box for Stickers: basic_kit_case_04.md
     - micro:bit Starter Kit:
       - Introduction: starter_kit.md
       - Breadboard:bit Introduction: breadboard_bit.md
