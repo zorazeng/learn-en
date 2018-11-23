@@ -8,23 +8,24 @@ Smart home is what makes life more practical and playing with it is what makes l
 
 ## Components
 ---
-Module | Quantity
+Module | Quantity | Remark
 :-: | :-: 
-sensor:bit|1
-Light sensor|1
-Sound sensor|1
-soil moisture snesor|1
-switch sensor|1
-Temperature sensor|1
-Rainbow LED|1
-OLED Screen|1
-180° servo|1
-Submersible pump|1
-Relay|1
-DC motor with fan|1
-USB Cable|1
-Crystal Battery Box	|1
-smart home kit Manual Book|1
+micro:bit|1|Option
+3V sensor:bit|1|-
+OLED Screen|1|-
+Crash E-Blocks|1|-
+TMP36 temperature sensor E-Blocks|1|-
+Rainbow LED E-Blocks|1|-
+Simulation noise sensor E-Blocks|1|-
+Light sensor E-Blocks|1|-
+Soil moisture sensor E-Blocks|1|-
+Relay E-Blocks|1|-
+DC motor E-Blocks|1|-
+180° servo E-Blocks|1|-
+Submersible pump E-Blocks|1|-
+USB Cable|1|-
+Crystal Battery Box	|1|-
+Smart home kit manual book|1|-
 
 ## Documents
 ---
