@@ -9,7 +9,7 @@ Smart home is what makes life more practical and playing with it is what makes l
 ## Components
 ---
 Module | Quantity | Remark
-:-: | :-: 
+:-: | :-: | :-: 
 micro:bit|1|Option
 3V sensor:bit|1|-
 OLED Screen|1|-
@@ -23,6 +23,7 @@ Relay E-Blocks|1|-
 DC motor E-Blocks|1|-
 180° servo E-Blocks|1|-
 Submersible pump E-Blocks|1|-
+Screw driver|1|-
 USB Cable|1|-
 Crystal Battery Box	|1|-
 Smart home kit manual book|1|-
