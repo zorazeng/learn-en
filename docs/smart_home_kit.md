@@ -10,7 +10,7 @@ Smart home is what makes life more practical and playing with it is what makes l
 ### Smart fan  
 ![](https://i.imgur.com/XJbqrkd.jpg)
 
-### Smart light   
+### Voice-activatied light 
 ![](https://i.imgur.com/TjI8a2b.jpg)
 
 For more practical case, please refer to the materials. 
