@@ -5,7 +5,7 @@ Smart home is what makes life more practical and playing with it is what makes l
 
 ![](https://i.imgur.com/1ku05L8.jpg)
 
-## 应用场景
+## Application Scene   
 ---
 ### Smart fan  
 ![](https://i.imgur.com/XJbqrkd.jpg)
@@ -13,7 +13,7 @@ Smart home is what makes life more practical and playing with it is what makes l
 ### Smart light   
 ![](https://i.imgur.com/TjI8a2b.jpg)
 
-更多应用案例，请参考套件资料
+For more practical case, please refer to the materials. 
 
 ## Components
 ---
