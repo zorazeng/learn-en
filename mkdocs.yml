@@ -213,6 +213,7 @@ pages:
       - Case 05 Water Level Alarming: smart_home_case_05.md
     - micro:bit experiment box kit:
       -introduction: experiment_box.md
+      -case 01 led: experiment_box_case_01.md
     - ring:bit Car Kit: 
       - Introduction: ring_bit_car.md
       - Ring:bit Introduction: ring_bit.md
