@@ -1,12 +1,12 @@
 ## Introduction
 ---
- The snowflake buzzer is a symbol of christmas day's snow. The snowflake buzzer is just like snow, comes in this christmas night and  play the chritmas music.
+ The snowflake buzzer is a symbol of christmas day's snow. The snowflake buzzer is just like snow, comes in this christmas night and  play the christmas music.
 
 ## Features
 ---
 - With crocodile clip lines, no need for a expansion board
 - In snow shape, adapt to the christmas scene 
-- Play the chritmas music with coding
+- Play the christmas music with coding
 
 ## Parameters 
 ---
