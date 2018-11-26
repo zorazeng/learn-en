@@ -211,6 +211,8 @@ pages:
       - Case 03 Auto Windows: smart_home_case_03.md
       - Case 04 Smart Wardrobe: smart_home_case_04.md
       - Case 05 Water Level Alarming: smart_home_case_05.md
+    - micro:bit experiment box kit:
+      -introduction: experiment_box.md
     - ring:bit Car Kit: 
       - Introduction: ring_bit_car.md
       - Ring:bit Introduction: ring_bit.md
