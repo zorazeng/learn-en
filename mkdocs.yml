@@ -212,20 +212,20 @@ pages:
       - Case 04 Smart Wardrobe: smart_home_case_04.md
       - Case 05 Water Level Alarming: smart_home_case_05.md
     - micro:bit experiment box kit:
-      -introduction: experiment_box.md
-      -case 01 led: experiment_box_case_01.md
-      -case 02 button: experiment_box_case_02.md
-      -case 03 rgb led: experiment_box_case_03.md
-      -case 04 trimpot: experiment_box_case_04.md
-      -case 05 photocell: experiment_box_case_05.md
-      -case 06 ntc: experiment_box_case_06.md
-      -case 07 buzzer: experiment_box_case_07.md
-      -case 08 servo: experiment_box_case_08.md
-      -case 09 self-locking button: experiment_box_case_09.md
-      -case 10 rainbow led ring: experiment_box_case_10.md
-      -case 11 dc motor: experiment_box_case_11.md
-      -circuit design 01: experiment_box_circuit_case_01.md
-      -circuit design 02: experiment_box_circuit_case_02.md
+      - introduction: experiment_box.md
+      - case 01 led: experiment_box_case_01.md
+      - case 02 button: experiment_box_case_02.md
+      - case 03 rgb led: experiment_box_case_03.md
+      - case 04 trimpot: experiment_box_case_04.md
+      - case 05 photocell: experiment_box_case_05.md
+      - case 06 ntc: experiment_box_case_06.md
+      - case 07 buzzer: experiment_box_case_07.md
+      - case 08 servo: experiment_box_case_08.md
+      - case 09 self-locking button: experiment_box_case_09.md
+      - case 10 rainbow led ring: experiment_box_case_10.md
+      - case 11 dc motor: experiment_box_case_11.md
+      - circuit design 01: experiment_box_circuit_case_01.md
+      - circuit design 02: experiment_box_circuit_case_02.md
     - ring:bit Car Kit: 
       - Introduction: ring_bit_car.md
       - Ring:bit Introduction: ring_bit.md
