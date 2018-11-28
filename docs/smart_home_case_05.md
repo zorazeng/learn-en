@@ -25,7 +25,7 @@
 ---
 Preparing a tank and paste devices as below piture:
 
-![](https://i.imgur.com/86tb1yO.jpg)
+![](https://i.imgur.com/ztW3W42.jpg)
 
 ## Hardware connect
 ---
