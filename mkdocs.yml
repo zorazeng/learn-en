@@ -211,6 +211,7 @@ pages:
       - Case 03 Auto Windows: smart_home_case_03.md
       - Case 04 Smart Wardrobe: smart_home_case_04.md
       - Case 05 Water Level Alarming: smart_home_case_05.md
+      - case 06 smart telecontrol door opener: smart_home_case_06.md
     - micro:bit experiment box kit:
       - introduction: experiment_box.md
       - case 01 led: experiment_box_case_01.md
