@@ -40,7 +40,7 @@ Back side：
 
 Paste devices as below piture:
 
-![](https://i.imgur.com/miuzisu.jpg)
+![](https://i.imgur.com/8sS6pSt.jpg)
 
 
 ## Hardware connect
