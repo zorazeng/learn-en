@@ -213,6 +213,7 @@ pages:
       - Case 05 Water Level Alarming: smart_home_case_05.md
       - case 06 smart telecontrol door opener: smart_home_case_06.md
       - case 07 smart decibel tester: smart_home_case_07.md
+      - case 08 simple spirometer: smart_home_case_08.md
     - micro:bit experiment box kit:
       - introduction: experiment_box.md
       - case 01 led: experiment_box_case_01.md
