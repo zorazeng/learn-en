@@ -202,6 +202,8 @@ pages:
       - Case 28 Put together the Krazy Kar v2: tinker_kit_case_28.md
       - Case 29 Shoot Em Up Kit: tinker_kit_case_29.md
       - Case 30 Reaction Time Tester: tinker_kit_case_30.md
+      - case 31 morse code transmitter: tinker_kit_case_31.md
+      - case 32 reclusebot: tinker_kit_case_32.md
 
     - micro:bit Smart home Kit:
       - Introduction: smart_home_kit.md
