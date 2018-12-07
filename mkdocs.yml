@@ -216,6 +216,9 @@ pages:
       - case 06 smart telecontrol door opener: smart_home_case_06.md
       - case 07 smart decibel tester: smart_home_case_07.md
       - case 08 simple spirometer: smart_home_case_08.md
+      - case 09 lie detector: smart_home_case_09.md
+      - case 10 simple alarm box: smart_home_case_10.md
+      - case 11 intruder detection system: smart_home_case_11.md
     - micro:bit experiment box kit:
       - introduction: experiment_box.md
       - case 01 led: experiment_box_case_01.md
