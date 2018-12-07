@@ -54,7 +54,7 @@
 
 - Snap "set strip to neopixel at pin with leds as" from neopixel into the on start. Set pin to P1 with 6 LEDs in RGB pattern.
 
-![](https://i.imgur.com/PXHZH2L.png)
+![](https://i.imgur.com/qCgKGXD.png)
 
 #### Step 3
 
@@ -65,11 +65,11 @@
 
 ### Program
 
-Program link：[https://makecode.microbit.org/_MMcHh7AjY97M](https://makecode.microbit.org/_MMcHh7AjY97M)
+Program link：[https://makecode.microbit.org/_Ukp8C5M2dbr2](https://makecode.microbit.org/_Ukp8C5M2dbr2)
 
 You also could directly download program by visiting website as below:
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_MMcHh7AjY97M" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_Ukp8C5M2dbr2" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Result 
 
