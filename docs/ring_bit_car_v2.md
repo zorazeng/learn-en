@@ -12,7 +12,7 @@ The ELECFREAKS Ring:bit Car is a small DIY smart car driven by the BBC micro:bit
 
 
 |Components|Numbers|Pictures|
-|:-:|:-:||
+|:-:|:-:|:-:|
 |micro:bit|Optional|![](https://i.imgur.com/qd2qCry.png)|
 |Ring:bit Expansion Board|1|![](https://i.imgur.com/y42umRI.jpg)|
 |Ring:bit Car Expansion Board|1|![](https://i.imgur.com/FISsc91.jpg)|
