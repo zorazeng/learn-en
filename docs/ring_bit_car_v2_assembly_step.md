@@ -1,86 +1,64 @@
-## Add New Extensions ##
+
+## Ring:bit car 2 Components Lists
 ---
-- We'll need to add a package of code to be able to use our ring:bit car.
-- Add new package by following below steps.
+![](https://i.imgur.com/1fAiTvC.jpg)
 
-### Step 1 ###
+![](https://i.imgur.com/jTaUtaM.jpg)
 
-- Click on "Advanced" in the Code Drawer to see more code sections and look at the bottom of the Code Drawer for " Extensions".
-
-![](https://i.imgur.com/Zh5p3Zu.jpg)
-
-### Step 2 ###
-
-- Search for “ringbitcar” and click on the ring:bit car package to add it to your project. (As below picture)
-
-![](https://i.imgur.com/lScruzy.jpg)
-
-### Step 3 ###
-
-- Completed.
-
-![](https://i.imgur.com/ikmJKH8.jpg)
-
-## Introduction ##
+## Assembly Step
 ---
+### Step-1 ###
 
-![](https://i.imgur.com/GLRp8cK.jpg)
+- Fisrt, use the tapping screw to fix the servo to the side board.(as below pictures)
+- Then, use the screw to fix the wheel to the servo.(as below pictures)
 
-- Pre-coding, we need to use the block to name the left wheel and the right wheel. 
+![](https://i.imgur.com/W3VGpPG.jpg)
 
----
-![](https://i.imgur.com/Xlg5Ow5.jpg)
+### Step-2 ###
 
-- Above block is for the car goes straight at full speed.
+- Use the rivet to install the castor wheel on the chassis.
 
----
-![](https://i.imgur.com/abEXhxg.jpg)
+![](https://i.imgur.com/RCHMJNv.jpg)
 
-- Above block is for the car reverses at full speed. 
+### Step-3 ###
 
----
-![](https://i.imgur.com/x2PMCwM.jpg)
+- Assemble the front board, the back board and the base board to the side board as below picture.
 
-- Above block is for the car turns left at full speed.
+![](https://i.imgur.com/Kkk1Bcd.jpg)
 
----
-![](https://i.imgur.com/GYcS0r4.jpg)
+### Step-4 ###
 
-- Above block is for the car turns right at full speed.
+- Use the binding post to fix all installed components.
 
----
-![](https://i.imgur.com/t0OMOyW.jpg)
+![](https://i.imgur.com/xEpdqfP.jpg)
 
-- Above block is for the car brakes.
+### Step-5 ###
 
----
-![](https://i.imgur.com/oRWI7VS.jpg)
+- Use the screw to fix the ring:bit to the micro:bit board.
 
-- Above block is for setting the rotate speed for the left wheel and the right wheel of the car.
-
----
-![](https://i.imgur.com/usA3YAi.jpg)
-
-- This block can be used to judge the line follow status after you expands the line follow module.
-
----
-![](https://i.imgur.com/rH9jdAC.jpg)
-
-- This block can be used to receive the ultrasonic's distance after you expands the ultrasonic distance module.
-
----
-
-### Program
----
-- Program Link：[https://makecode.microbit.org/_btF1YvKAXh3m](https://makecode.microbit.org/_btF1YvKAXh3m)
-
-- If you don't want to type these code by yourself, you can directly download the whole program from the link below:
-
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_btF1YvKAXh3m" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>  
+![](https://i.imgur.com/RAxSlWq.jpg)
 
 
-## Questions
----
+### Step-6 ###
 
-## More Information 
----
+- Connecting wire as below pictures.
+
+![](https://i.imgur.com/UwEHU4l.jpg)
+![](https://i.imgur.com/Jepmq6y.jpg)
+
+### Completed ###
+
+- Fix the assembled ring:bit to the front board.
+
+![](https://i.imgur.com/FCt8S8c.jpg)
+
+
+## Rerlated Documents
+- [Ring:bit Car Assembly Step](//)
+- [Ring:bit 2 Introduction of Expansion Board](//)
+- [Ring:bit Introduction of E-blocks](//)
+- [Case_01 Full speed ahead](//)
+- [Case_02 Make a shape](//)
+- [Case_03 Turn at an angle](//)
+- [Case_04 Here comes the police](//)
+- [Case_05 Crazy dance](//)
