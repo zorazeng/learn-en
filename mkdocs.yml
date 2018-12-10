@@ -241,6 +241,16 @@ pages:
       - Case 02 S Walk: ring_bit_car_case_02.md
       - Case 03 Draw a Circel: ring_bit_car_case_03.md
       - Case 04 Wireless Remote Control: ring_bit_car_case_04.md
+    - ring:bit Car Kit V2: 
+      - Introduction: ring_bit_car_v2.md
+      - Ring:bit Car Assembly Step: ring_bit_car_v2_assembly_step.md
+      - Ring:bit Introduction: ring_bit_v2.md
+      - Ring:bit Introduction of E-blocks: ring_bit_car_v2_extensions.md
+      - Case 01 Full speed ahead: ring_bit_car_v2_case_01.md
+      - Case 02 Make a shape: ring_bit_car_v2_case_02.md
+      - Case 03 Turn at an angle: ring_bit_car_v2_case_03.md
+      - Case 04 Here comes the police: ring_bit_car_v2_case_04.md
+      - Case_05 Crazy dance: ring_bit_car_v2_case_05.md
     - motor:bit Smart Car Kit: 
       - Introduction: motor_bit_smart_car.md
       - motor:bit Introduction: motor_bit_v16.md
