@@ -1,4 +1,4 @@
-##Introduction
+###Introduction
 ---
 The Elecfreaks Experimental Box is a brand new teaching aid developed by ELECFREAKS. We included traditional components such as the temperature sensor, photocell, servo, motor and LEDs. But we also added electronic components such as the MOSFET transistor, different values of resistors, and a trimpot to combine circuit design with programming.
 
@@ -10,7 +10,7 @@ Programming or designing circuits, the choice is up to you!
 
 ![](https://i.imgur.com/yg4f3xe.jpg)
 
-##Components lists
+###Components lists
 ---
 Components | Numbers
 :-: | :-: 
