@@ -45,7 +45,7 @@
 
 ### Step 3
 
-- Set "Temperature" as a variable to deposit the Celsius.
+- Set "Temperature" as a variable to store the Celsius.
 - As above formula, convert the values of P0 into Celsius.
 
 ![](https://i.imgur.com/N91GU48.png)
