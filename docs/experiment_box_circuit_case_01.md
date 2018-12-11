@@ -20,7 +20,7 @@ We are going to use the experiment box to finish a pure circuit design and to co
 
 ### LED ###
 
-- LED, light-emitting diode, is a kind of LED semiconductor diode which can transfer electric energy to luminous energy. The luminous diode is same as diode which is consistuded by one PN and with unilateral conductivity. Please note that when using the diode, the positive and negative poles should be strictly distinguished, and the positive pole should be grounded to the negative pole of the power supply. Otherwise, the diode will be reversely broken and the component will be damaged
+- LED, light-emitting diode, is a kind of LED semiconductor diode which can transfer electric energy to luminous energy. The luminous diode is same as diode which is consistuded by one PN and with unilateral conductivity. Please note that when using the diode, the positive and negative poles should be strictly distinguished, and the positive pole should be grounded to the negative pole of the power supply. Otherwise, the diode will be reversely broken and the component will be damaged.
 - The LED is shown in the schemetics as below picture.
 
 ![](https://i.imgur.com/X7Q3maG.jpg)
