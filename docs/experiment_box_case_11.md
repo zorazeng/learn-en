@@ -43,7 +43,7 @@
 
 ### Step 3
 
-- Judge the value of P1 if it is equal to 0. If it is, write 1 to the P0 port for starting the servo; If it is not, write 0 to the PO port to stopping the servo.
+- Judge the value of P1 if it is equal to 0. If it is, write 1 to the P0 port for starting the servo; If it is not, write 0 to the P0 port to stopping the servo.
 
 ![](https://i.imgur.com/3UfQLdB.png)
 
