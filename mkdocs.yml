@@ -252,7 +252,7 @@ pages:
       - Case 04 Here comes the police: ring_bit_car_v2_case_04.md
       - Case_05 Crazy dance: ring_bit_car_v2_case_05.md
       - Case_06 Remote Control: ring_bit_car_v2_case_06.md
-      - Case_07 Autostop: ring_bit_car_v2_case_07.md
+      - Case_07 Turns over Detection : ring_bit_car_v2_case_07.md
       - Case_08 Light Follow: ring_bit_car_v2_case_08.md
     - motor:bit Smart Car Kit: 
       - Introduction: motor_bit_smart_car.md
