@@ -132,6 +132,7 @@ pages:
     - Edge Connector Data Sheet: Edge_Connector_Data_Sheet.md
     - How to Use Bluetooth(IOS System): How_to_Use_Bluetooth_IOS_System.md
     - troubleshooting downloads with webusb: troubleshooting_downloads_with_webusb.md
+    - ring_bit_car_v2_accelerometer_arithmetic.md
   - micro:bit Kits:
     - micro:bit Watch Kit:
       - Introduction: watch_kit.md
@@ -254,6 +255,7 @@ pages:
       - Case_06 Remote Control: ring_bit_car_v2_case_06.md
       - Case_07 Turns over Detection : ring_bit_car_v2_case_07.md
       - Case_08 Light Follow: ring_bit_car_v2_case_08.md
+      - Case_09 Remote Control by an accelerometer: ring_bit_car_v2_case_09.md
     - motor:bit Smart Car Kit: 
       - Introduction: motor_bit_smart_car.md
       - motor:bit Introduction: motor_bit_v16.md
