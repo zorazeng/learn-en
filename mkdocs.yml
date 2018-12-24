@@ -222,6 +222,7 @@ pages:
       - case 11 intruder detection system: smart_home_case_11.md
     - micro:bit experiment box kit:
       - introduction: experiment_box.md
+      - circuit knowledge: experiment_box_circuit_knowledge.md
       - case 01 led: experiment_box_case_01.md
       - case 02 button: experiment_box_case_02.md
       - case 03 RGB led: experiment_box_case_03.md
