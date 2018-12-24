@@ -76,16 +76,6 @@ The circuit diagram means a diagram is drawed by symbol.
 
 ![](https://i.imgur.com/gcKRcXy.jpg)
 
-### Rheostat ###
----
-- The rheostat is an element can change magnitude of the resistance.
-
-![](https://i.imgur.com/IQl0Uhp.png)
-
-## Application of rheostat ##
-- There is always a mark on the rheostat to remind the biggest resistance and the maximum current. You should choose according to your needs when you use it. The current passing through cannot over the maximum value, otherwise the resistance will be burned out. Usually, you need to adjust the resistance to maximum before you use it. Its function is to change current by adjust its resistance value.
-
-
 ## Ohm's law ##
 ---
 Current of conductor is in direct proportion to sides of the conductor and  be inversely proportional to resistance of the conductor. If we use "U" for voltage, "R" for resistance and "I" for electric current and the formula is:
