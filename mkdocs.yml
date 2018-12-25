@@ -243,6 +243,10 @@ pages:
       - Case 02 S Walk: ring_bit_car_case_02.md
       - Case 03 Draw a Circel: ring_bit_car_case_03.md
       - Case 04 Wireless Remote Control: ring_bit_car_case_04.md
+      - Case 05 Crazy dance: ring_bit_car_case_05.md
+      - Case 06 Turns over Detection: ring_bit_car_case_06.md
+      - Case 07 Light Follow: ring_bit_car_case_07.md
+      - Case 08 Remote Control by an accelerometer: ring_bit_car_case_08.md
     - ring:bit Car Kit V2: 
       - Introduction: ring_bit_car_v2.md
       - Ring:bit Car Assembly Step: ring_bit_car_v2_assembly_step.md
