@@ -273,12 +273,6 @@ pages:
     - robit Smart Car kit: 
       - Kit Introduction: robit_smart_car.md
       - robit Introduction: robit.md
-  - micro:bit Modules and Sensor:
-    - sensor:bit: sensor_bit.md
-    - motor:bit v14: motor_bit_v14.md
-    - joystick:bit v2: joystick_bit_v2.md
-    - robit: 
-      - Introduction: robit.md
       - Case 01 Ultrasonic Distance Measurement: robit_case_01.md
       - Case 02 Ultrasonic Obstacle Avoidance: robit_case_02.md
       - Case 03 Never Fallen Car: robit_case_03.md
@@ -286,6 +280,11 @@ pages:
       - Case 05 Reversing Alarm: robit_case_05.md
       - Case 06 Rainbow LED: robit_case_06.md
       - Case 07 Smart Car Light: robit_case_07.md
+  - micro:bit Modules and Sensor:
+    - sensor:bit: sensor_bit.md
+    - motor:bit v14: motor_bit_v14.md
+    - joystick:bit v2: joystick_bit_v2.md
+    - robit: robit.md
     - edge:bit: edge_bit.md
     - joystick:bit: joystick_bit.md
     - Power Supply: microbit_power_supply.md
