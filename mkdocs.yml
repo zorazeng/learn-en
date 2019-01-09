@@ -272,7 +272,7 @@ pages:
       - Case 06 Bluetooth Control: motor_bit_smart_car_case_06.md  
     - robit Smart Car kit: 
       - Kit Introduction: robit_smart_car.md
-      - robit Introduction: robit.md
+      - mbot Introduction(robit): robit.md
       - robit Smart Car kit case01:ultrasonic measurement: robit_smart_car_case_01
       - robit Smart Car kit case02:line follow: robit_smart_car_case_02
       
@@ -281,7 +281,7 @@ pages:
     - sensor:bit: sensor_bit.md
     - motor:bit v14: motor_bit_v14.md
     - joystick:bit v2: joystick_bit_v2.md
-    - robit(mbot): 
+    - mbot Introduction(robit): 
       - robit Introduction: robit.md
       - Case 01 Ultrasonic Distance Measurement: robit_case_01.md
       - Case 02 Ultrasonic Obstacle Avoidance: robit_case_02.md
