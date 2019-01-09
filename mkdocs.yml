@@ -272,6 +272,8 @@ pages:
       - Case 06 Bluetooth Control: motor_bit_smart_car_case_06.md  
     - robit Smart Car kit: 
       - Kit Introduction: robit_smart_car.md
+      - ultrasonic measurement: robit_smart_car_case_01
+      - line follow: robit_smart_car_case_02
       - robit Introduction: robit.md
 
   - micro:bit Modules and Sensor:
