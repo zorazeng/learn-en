@@ -273,8 +273,8 @@ pages:
     - robit Smart Car kit: 
       - Kit Introduction: robit_smart_car.md
       - mbot Introduction(robit): robit.md
-      - robit Smart Car kit case01:ultrasonic measurement: robit_smart_car_case_01
-      - robit Smart Car kit case02:line follow: robit_smart_car_case_02
+      - robit Smart Car kit case01:ultrasonic measurement: robit_smart_car_case_01.md
+      - robit Smart Car kit case02:line follow: robit_smart_car_case_02.md
       
 
   - micro:bit Modules and Sensor:
