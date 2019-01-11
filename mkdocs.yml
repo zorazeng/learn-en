@@ -205,6 +205,9 @@ pages:
       - Case 30 Reaction Time Tester: tinker_kit_case_30.md
       - case 31 morse code transmitter: tinker_kit_case_31.md
       - case 32 reclusebot: tinker_kit_case_32.md
+      - case 33 access denied: tinker_kit_case_33.md
+      - case 34 micropython: tinker_kit_case_34.md
+      - case 35 build your own microbit security Door: tinker_kit_case_35.md
 
     - micro:bit Smart home Kit:
       - Introduction: smart_home_kit.md
