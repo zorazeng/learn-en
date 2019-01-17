@@ -293,6 +293,8 @@ pages:
       - Case 05 Reversing Alarm: robit_case_05.md
       - Case 06 Rainbow LED: robit_case_06.md
       - Case 07 Smart Car Light: robit_case_07.md
+      - Case 08 Bluetooth remote control: robit_case_08.md
+      - Case 09 Reaction test game: robit_case_09.md
     - edge:bit: edge_bit.md
     - joystick:bit: joystick_bit.md
     - Power Supply: microbit_power_supply.md
